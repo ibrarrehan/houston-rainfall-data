@@ -1,0 +1,918 @@
+﻿Site_Id,Location,sensor_id,Sensor Type,lng,lat,Agency
+100,100 Clear Lake 2nd Outlet @ SH 146,1,Air Temperature,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,2,Humidity Sensor,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,3,Barometric Pressure,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,4,WindGust,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,5,Wind Direction,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,6,Wind Gust,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,100,Rain Increment,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,103,Stream Level,-95.025513,29.554639,Harris County Flood Control District
+100,100 Clear Lake 2nd Outlet @ SH 146,104,Stream Level,-95.025513,29.554639,Harris County Flood Control District
+105,105 Marys Creek @ Winding Road,105,Rain Increment,-95.217353,29.543475,Harris County Flood Control District
+105,105 Marys Creek @ Winding Road,108,Stream Level,-95.217353,29.543475,Harris County Flood Control District
+110,110 Clear Creek @ I-45,110,Rain Increment,-95.11667,29.50834,Harris County Flood Control District
+110,110 Clear Creek @ I-45,113,Stream Level,-95.11667,29.50834,Harris County Flood Control District
+115,115 Cowart Creek @ Baker Road,114,Stream Level,-95.222531,29.513234,Harris County Flood Control District
+115,115 Cowart Creek @ Baker Road,115,Rain Increment,-95.222531,29.513234,Harris County Flood Control District
+120,120 Clear Creek @ FM 528,120,Rain Increment,-95.179061,29.517555,Harris County Flood Control District
+120,120 Clear Creek @ FM 528,123,Stream Level,-95.179061,29.517555,Harris County Flood Control District
+125,125 Chigger Creek @ Windsong Lane,101,SoilSaturation 5cm,-95.223522,29.495189,Harris County Flood Control District
+125,125 Chigger Creek @ Windsong Lane,125,Rain Increment,-95.223522,29.495189,Harris County Flood Control District
+125,125 Chigger Creek @ Windsong Lane,128,Stream Level,-95.223522,29.495189,Harris County Flood Control District
+125,125 Chigger Creek @ Windsong Lane,201,SoilSaturation 20cm,-95.223522,29.495189,Harris County Flood Control District
+125,125 Chigger Creek @ Windsong Lane,301,SoilSaturation 40cm,-95.223522,29.495189,Harris County Flood Control District
+130,130 Clear Creek @ Bay Area Boulevard,130,Rain Increment,-95.159806,29.497498,Harris County Flood Control District
+130,130 Clear Creek @ Bay Area Boulevard,133,Stream Level,-95.159806,29.497498,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,1,Air Temperature,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,2,Humidity Sensor,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,3,Barometric Pressure,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,4,WindGust,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,5,Wind Direction,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,6,Wind Gust,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,135,Rain Increment,-95.196775,29.542461,Harris County Flood Control District
+135,135 Clear Creek @ FM 2351,138,Stream Level,-95.196775,29.542461,Harris County Flood Control District
+140,140 Turkey Creek @ FM 1959,101,SoilSaturation 5cm,-95.187552,29.583903,Harris County Flood Control District
+140,140 Turkey Creek @ FM 1959,140,Rain Increment,-95.187552,29.583903,Harris County Flood Control District
+140,140 Turkey Creek @ FM 1959,143,Stream Level,-95.187552,29.583903,Harris County Flood Control District
+140,140 Turkey Creek @ FM 1959,201,SoilSaturation 20cm,-95.187552,29.583903,Harris County Flood Control District
+140,140 Turkey Creek @ FM 1959,301,SoilSaturation 40cm,-95.187552,29.583903,Harris County Flood Control District
+145,145 Clear Creek @ FM 1959,7,Stream Level,-95.215939,29.557717,Harris County Flood Control District
+145,145 Clear Creek @ FM 1959,145,Rain Increment,-95.215939,29.557717,Harris County Flood Control District
+150,150 Clear Creek @ Country Club Drive,101,SoilSaturation 5cm,-95.252279,29.555872,Harris County Flood Control District
+150,150 Clear Creek @ Country Club Drive,150,Rain Increment,-95.252279,29.555872,Harris County Flood Control District
+150,150 Clear Creek @ Country Club Drive,153,Stream Level,-95.252279,29.555872,Harris County Flood Control District
+150,150 Clear Creek @ Country Club Drive,201,SoilSaturation 20cm,-95.252279,29.555872,Harris County Flood Control District
+150,150 Clear Creek @ Country Club Drive,301,SoilSaturation 40cm,-95.252279,29.555872,Harris County Flood Control District
+160,160 Beamer Ditch @ Hughes Road,160,Rain Increment,-95.222089,29.591725,Harris County Flood Control District
+160,160 Beamer Ditch @ Hughes Road,163,Stream Level,-95.222089,29.591725,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,101,SoilSaturation 5cm,-95.091224,29.534116,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,169,Stream Level,-95.091224,29.534116,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,170,Rain Increment,-95.091224,29.534116,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,173,Stream Level,-95.091224,29.534116,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,201,SoilSaturation 20cm,-95.091224,29.534116,Harris County Flood Control District
+170,170 Clear Creek @ Nassau Bay,301,SoilSaturation 40cm,-95.091224,29.534116,Harris County Flood Control District
+175,175 Clear Creek @ Pearland Parkway,175,Rain Increment,-95.266054,29.594175,Harris County Flood Control District
+175,175 Clear Creek @ Pearland Parkway,1757,Stream Level,-95.266054,29.594175,Harris County Flood Control District
+180,180 Clear Creek @ Mykawa Road,179,Stream Level,-95.297345,29.596694,Harris County Flood Control District
+180,180 Clear Creek @ Mykawa Road,180,Rain Increment,-95.297345,29.596694,Harris County Flood Control District
+190,190 Clear Creek @ SH 288,190,Rain Increment,-95.385728,29.585343,Harris County Flood Control District
+190,190 Clear Creek @ SH 288,193,Stream Level,-95.385728,29.585343,Harris County Flood Control District
+200,200 Taylor Lake @ Nasa Road 1,200,Rain Increment,-95.053834,29.565371,Harris County Flood Control District
+200,200 Taylor Lake @ Nasa Road 1,203,Stream Level,-95.053834,29.565371,Harris County Flood Control District
+210,210 Armand Bayou @ Pasadena Lake (Nasa Road 1),210,Rain Increment,-95.070795,29.564191,Harris County Flood Control District
+210,210 Armand Bayou @ Pasadena Lake (Nasa Road 1),213,Stream Level,-95.070795,29.564191,Harris County Flood Control District
+220,220 Armand Bayou @ Genoa-Red Bluff Road,220,Rain Increment,-95.114485,29.633755,Harris County Flood Control District
+220,220 Armand Bayou @ Genoa-Red Bluff Road,223,Stream Level,-95.114485,29.633755,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,1,Air Temperature,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,2,Humidity Sensor,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,3,Barometric Pressure,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,4,WindGust,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,5,Wind Direction,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,6,Wind Gust,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,230,Rain Increment,-95.076001,29.651497,Harris County Flood Control District
+230,230 Big Island Slough @ Fairmont Parkway,233,Stream Level,-95.076001,29.651497,Harris County Flood Control District
+240,240 Little Vince Bayou @ Burke Road,239,Stream Level,-95.183473,29.683502,Harris County Flood Control District
+240,240 Little Vince Bayou @ Burke Road,240,Rain Increment,-95.183473,29.683502,Harris County Flood Control District
+245,245 Armand Bayou @ Space Center Boulevard,245,Rain Increment,-95.1442238,29.6634643,Harris County Flood Control District
+245,245 Armand Bayou @ Space Center Boulevard,2457,Stream Level,-95.1442238,29.6634643,Harris County Flood Control District
+250,250 Horsepen Bayou @ Bay Area Boulevard,101,SoilSaturation 5cm,-95.103438,29.583671,Harris County Flood Control District
+250,250 Horsepen Bayou @ Bay Area Boulevard,201,SoilSaturation 20cm,-95.103438,29.583671,Harris County Flood Control District
+250,250 Horsepen Bayou @ Bay Area Boulevard,249,Stream Level,-95.103438,29.583671,Harris County Flood Control District
+250,250 Horsepen Bayou @ Bay Area Boulevard,250,Rain Increment,-95.103438,29.583671,Harris County Flood Control District
+250,250 Horsepen Bayou @ Bay Area Boulevard,301,SoilSaturation 40cm,-95.103438,29.583671,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,1,Air Temperature,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,2,Humidity Sensor,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,3,Barometric Pressure,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,4,WindGust,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,5,Wind Direction,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,6,Wind Gust,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,270,Rain Increment,-95.110027,29.650747,Harris County Flood Control District
+270,270 Willow Spring Bayou @ Fairmont Parkway,273,Stream Level,-95.110027,29.650747,Harris County Flood Control District
+310,310 Berry Bayou @ Nevada Avenue,101,SoilSaturation 5cm,-95.228933,29.656295,Harris County Flood Control District
+310,310 Berry Bayou @ Nevada Avenue,201,SoilSaturation 20cm,-95.228933,29.656295,Harris County Flood Control District
+310,310 Berry Bayou @ Nevada Avenue,301,SoilSaturation 40cm,-95.228933,29.656295,Harris County Flood Control District
+310,310 Berry Bayou @ Nevada Avenue,309,Stream Level,-95.228933,29.656295,Harris County Flood Control District
+310,310 Berry Bayou @ Nevada Avenue,310,Rain Increment,-95.228933,29.656295,Harris County Flood Control District
+320,320 Berry Bayou @ Forest Oaks Boulevard,320,Rain Increment,-95.243682,29.676469,Harris County Flood Control District
+320,320 Berry Bayou @ Forest Oaks Boulevard,323,Stream Level,-95.243682,29.676469,Harris County Flood Control District
+340,340 Sims Bayou @ Telephone Road,339,Stream Level,-95.289014,29.674494,Harris County Flood Control District
+340,340 Sims Bayou @ Telephone Road,340,Rain Increment,-95.289014,29.674494,Harris County Flood Control District
+360,360 Sims Bayou @ Martin Luther King Road,360,Rain Increment,-95.336798,29.644783,Harris County Flood Control District
+360,360 Sims Bayou @ Martin Luther King Road,363,Stream Level,-95.336798,29.644783,Harris County Flood Control District
+370,370 Sims Bayou @ SH 288,370,Rain Increment,-95.386657,29.632178,Harris County Flood Control District
+370,370 Sims Bayou @ SH 288,373,Stream Level,-95.386657,29.632178,Harris County Flood Control District
+380,380 Sims Bayou @ Hiram Clarke Rd,101,SoilSaturation 5cm,-95.445887,29.619293,Harris County Flood Control District
+380,380 Sims Bayou @ Hiram Clarke Rd,201,SoilSaturation 20cm,-95.445887,29.619293,Harris County Flood Control District
+380,380 Sims Bayou @ Hiram Clarke Rd,301,SoilSaturation 40cm,-95.445887,29.619293,Harris County Flood Control District
+380,380 Sims Bayou @ Hiram Clarke Rd,379,Stream Level,-95.445887,29.619293,Harris County Flood Control District
+380,380 Sims Bayou @ Hiram Clarke Rd,380,Rain Increment,-95.445887,29.619293,Harris County Flood Control District
+400,400 Harris Gully @ South McGregor Way,400,Rain Increment,-95.391914,29.707796,Harris County Flood Control District
+400,400 Harris Gully @ South McGregor Way,403,Stream Level,-95.391914,29.707796,Harris County Flood Control District
+405,405 Brays Bayou @ Martin Luther King Blvd,405,Rain Increment,-95.339294,29.714667,Harris County Flood Control District
+405,405 Brays Bayou @ Martin Luther King Blvd,408,Stream Level,-95.339294,29.714667,Harris County Flood Control District
+410,410 Brays Bayou @ Lawndale Street,410,Rain Increment,-95.305332,29.722625,Harris County Flood Control District
+410,410 Brays Bayou @ Lawndale Street,413,Stream Level,-95.305332,29.722625,Harris County Flood Control District
+420,420 Brays Bayou @ South Main Street,418,Stream Level,-95.412138,29.697018,Harris County Flood Control District
+420,420 Brays Bayou @ South Main Street,420,Rain Increment,-95.412138,29.697018,Harris County Flood Control District
+430,430 Brays Bayou @ Stella Link Road,429,Stream Level,-95.439914,29.690953,Harris County Flood Control District
+430,430 Brays Bayou @ Stella Link Road,430,Rain Increment,-95.439914,29.690953,Harris County Flood Control District
+435,435 Willow Water Hole @ Willowbend Boulevard,435,Rain Increment,-95.460008,29.664477,Harris County Flood Control District
+435,435 Willow Water Hole @ Willowbend Boulevard,438,Stream Level,-95.460008,29.664477,Harris County Flood Control District
+440,440 Brays Bayou @ Rice Avenue,439,Stream Level,-95.467271,29.678605,Harris County Flood Control District
+440,440 Brays Bayou @ Rice Avenue,440,Rain Increment,-95.467271,29.678605,Harris County Flood Control District
+445,445 Willow Water Hole @ Landsdowne Drive,444,Stream Level,-95.4867,29.65023,Harris County Flood Control District
+445,445 Willow Water Hole @ Landsdowne Drive,445,Rain Increment,-95.4867,29.65023,Harris County Flood Control District
+460,460 Brays Bayou @ Gessner Road,101,SoilSaturation 5cm,-95.527994,29.672371,Harris County Flood Control District
+460,460 Brays Bayou @ Gessner Road,201,SoilSaturation 20cm,-95.527994,29.672371,Harris County Flood Control District
+460,460 Brays Bayou @ Gessner Road,301,SoilSaturation 40cm,-95.527994,29.672371,Harris County Flood Control District
+460,460 Brays Bayou @ Gessner Road,459,Stream Level,-95.527994,29.672371,Harris County Flood Control District
+460,460 Brays Bayou @ Gessner Road,460,Rain Increment,-95.527994,29.672371,Harris County Flood Control District
+465,465 Brays Bayou @ Beltway 8,465,Rain Increment,-95.556599,29.695066,Harris County Flood Control District
+465,465 Brays Bayou @ Beltway 8,468,Stream Level,-95.556599,29.695066,Harris County Flood Control District
+470,470 Brays Bayou @ Belle Park Drive,470,Rain Increment,-95.5825,29.709284,Harris County Flood Control District
+470,470 Brays Bayou @ Belle Park Drive,473,Stream Level,-95.5825,29.709284,Harris County Flood Control District
+475,475 Brays Bayou @ Bellaire Boulevard,475,Rain Increment,-95.566081,29.70391,Harris County Flood Control District
+475,475 Brays Bayou @ Bellaire Boulevard,478,Stream Level,-95.566081,29.70391,Harris County Flood Control District
+480,480 Keegans Bayou @ Roark Road,479,Stream Level,-95.562488,29.656136,Harris County Flood Control District
+480,480 Keegans Bayou @ Roark Road,480,Rain Increment,-95.562488,29.656136,Harris County Flood Control District
+485,485 Brays Bayou @ SH 6,101,SoilSaturation 5cm,-95.643933,29.715071,Harris County Flood Control District
+485,485 Brays Bayou @ SH 6,201,SoilSaturation 20cm,-95.643933,29.715071,Harris County Flood Control District
+485,485 Brays Bayou @ SH 6,301,SoilSaturation 40cm,-95.643933,29.715071,Harris County Flood Control District
+485,485 Brays Bayou @ SH 6,484,Stream Level,-95.643933,29.715071,Harris County Flood Control District
+485,485 Brays Bayou @ SH 6,485,Rain Increment,-95.643933,29.715071,Harris County Flood Control District
+490,490 Keegans Bayou @ Keegan Road,490,Rain Increment,-95.594888,29.665949,Harris County Flood Control District
+490,490 Keegans Bayou @ Keegan Road,493,Stream Level,-95.594888,29.665949,Harris County Flood Control District
+495,495 Keegans Bayou @ Rocky Valley,495,Rain Increment,-95.649195,29.678422,Harris County Flood Control District
+495,495 Keegans Bayou @ Rocky Valley,498,Stream Level,-95.649195,29.678422,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,2,Humidity Sensor,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,4,WindGust,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,5,Wind Direction,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,6,Wind Gust,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,510,Rain Increment,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,512,Air Temperature,-95.452383,29.806225,Harris County Flood Control District
+510,510 Harris County Flood Control @ Brookhollow,514,Barometric Pressure,-95.452383,29.806225,Harris County Flood Control District
+520,520 White Oak Bayou @ Heights Boulevard,519,Stream Level,-95.397145,29.774876,Harris County Flood Control District
+520,520 White Oak Bayou @ Heights Boulevard,520,Rain Increment,-95.397145,29.774876,Harris County Flood Control District
+530,530 White Oak Bayou @ Ella Boulevard,530,Rain Increment,-95.429368,29.803438,Harris County Flood Control District
+530,530 White Oak Bayou @ Ella Boulevard,533,Stream Level,-95.429368,29.803438,Harris County Flood Control District
+535,535 White Oak Bayou @ Pinemont Drive,534,Stream Level,-95.458339,29.840915,Harris County Flood Control District
+535,535 White Oak Bayou @ Pinemont Drive,535,Rain Increment,-95.458339,29.840915,Harris County Flood Control District
+540,540 White Oak Bayou @ Alabonson Road,540,Rain Increment,-95.480366,29.870424,Harris County Flood Control District
+540,540 White Oak Bayou @ Alabonson Road,543,Stream Level,-95.480366,29.870424,Harris County Flood Control District
+545,545 White Oak Bayou @ Fairbanks North Houston Road,544,Stream Level,-95.524522,29.877297,Harris County Flood Control District
+545,545 White Oak Bayou @ Fairbanks North Houston Road,545,Rain Increment,-95.524522,29.877297,Harris County Flood Control District
+550,550 White Oak Bayou @ Lakeview Drive,549,Stream Level,-95.556185,29.887358,Harris County Flood Control District
+550,550 White Oak Bayou @ Lakeview Drive,550,Rain Increment,-95.556185,29.887358,Harris County Flood Control District
+555,555 White Oak Bayou @ Jones Road,101,SoilSaturation 5cm,-95.584556,29.917687,Harris County Flood Control District
+555,555 White Oak Bayou @ Jones Road,201,SoilSaturation 20cm,-95.584556,29.917687,Harris County Flood Control District
+555,555 White Oak Bayou @ Jones Road,301,SoilSaturation 40cm,-95.584556,29.917687,Harris County Flood Control District
+555,555 White Oak Bayou @ Jones Road,555,Rain Increment,-95.584556,29.917687,Harris County Flood Control District
+555,555 White Oak Bayou @ Jones Road,558,Stream Level,-95.584556,29.917687,Harris County Flood Control District
+560,560 Little White Oak Bayou @ Trimble Street,101,SoilSaturation 5cm,-95.367817,29.792956,Harris County Flood Control District
+560,560 Little White Oak Bayou @ Trimble Street,201,SoilSaturation 20cm,-95.367817,29.792956,Harris County Flood Control District
+560,560 Little White Oak Bayou @ Trimble Street,301,SoilSaturation 40cm,-95.367817,29.792956,Harris County Flood Control District
+560,560 Little White Oak Bayou @ Trimble Street,559,Stream Level,-95.367817,29.792956,Harris County Flood Control District
+560,560 Little White Oak Bayou @ Trimble Street,560,Rain Increment,-95.367817,29.792956,Harris County Flood Control District
+570,570 Little White Oak Bayou @ Tidwell Road,570,Rain Increment,-95.399729,29.845139,Harris County Flood Control District
+570,570 Little White Oak Bayou @ Tidwell Road,573,Stream Level,-95.399729,29.845139,Harris County Flood Control District
+575,575 White Oak Bayou @ Tidwell Road,575,Rain Increment,-95.460193,29.846237,Harris County Flood Control District
+575,575 White Oak Bayou @ Tidwell Road,578,Stream Level,-95.460193,29.846237,Harris County Flood Control District
+580,580 Brickhouse Gully @ Costa Rica Road,579,Stream Level,-95.469019,29.827664,Harris County Flood Control District
+580,580 Brickhouse Gully @ Costa Rica Road,580,Rain Increment,-95.469019,29.827664,Harris County Flood Control District
+582,582 Brickhouse Gully @ Hollister,582,Rain Increment,-95.509149,29.823918,Harris County Flood Control District
+582,582 Brickhouse Gully @ Hollister,5827,Stream Level,-95.509149,29.823918,Harris County Flood Control District
+585,585 Vogel Creek @ Victory Drive,101,SoilSaturation 5cm,-95.4692,29.868133,Harris County Flood Control District
+585,585 Vogel Creek @ Victory Drive,201,SoilSaturation 20cm,-95.4692,29.868133,Harris County Flood Control District
+585,585 Vogel Creek @ Victory Drive,301,SoilSaturation 40cm,-95.4692,29.868133,Harris County Flood Control District
+585,585 Vogel Creek @ Victory Drive,584,Stream Level,-95.4692,29.868133,Harris County Flood Control District
+585,585 Vogel Creek @ Victory Drive,585,Rain Increment,-95.4692,29.868133,Harris County Flood Control District
+590,590 Cole Creek @ Deihl Road,589,Stream Level,-95.487669,29.850893,Harris County Flood Control District
+590,590 Cole Creek @ Deihl Road,590,Rain Increment,-95.487669,29.850893,Harris County Flood Control District
+595,595 Vogel Creek @ Gulf Bank Road,594,Stream Level,-95.467416,29.883128,Harris County Flood Control District
+595,595 Vogel Creek @ Gulf Bank Road,595,Rain Increment,-95.467416,29.883128,Harris County Flood Control District
+605,605 Taylor Lake @ Port Road,605,Rain Increment,-95.039618,29.603818,Harris County Flood Control District
+605,605 Taylor Lake @ Port Road,608,Stream Level,-95.039618,29.603818,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,3,Barometric Pressure,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,4,WindGust,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,5,Wind Direction,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,6,Wind Gust,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,101,SoilSaturation 5cm,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,201,SoilSaturation 20cm,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,301,SoilSaturation 40cm,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,610,Rain Increment,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,611,Humidity Sensor,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,612,Air Temperature,-95.021669,29.619923,Harris County Flood Control District
+610,610 Taylors Bayou @ Shoreacres Boulevard,613,Stream Level,-95.021669,29.619923,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,1,Air Temperature,-95.027295,29.650057,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,2,Humidity Sensor,-95.027295,29.650057,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,3,Barometric Pressure,-95.027295,29.650057,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,4,WindGust,-95.027295,29.650057,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,5,Wind Direction,-95.027295,29.650057,Harris County Flood Control District
+620,620 Little Cedar Bayou @ 8th Street,620,Rain Increment,-95.027295,29.650057,Harris County Flood Control District
+640,640 Lateral @ Sens Road,1,Air Temperature,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,2,Humidity Sensor,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,3,Barometric Pressure,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,4,WindGust,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,5,Wind Direction,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,640,Rain Increment,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,643,Stream Level,-95.046849,29.683451,Harris County Flood Control District
+640,640 Lateral @ Sens Road,647,Wind Gust,-95.046849,29.683451,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,650,Rain Increment,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,651,Air Temperature,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,652,Barometric Pressure,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,653,Stream Level,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,654,Wind Gust,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,655,Humidity Sensor,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,656,Wind Direction,-95.1175924,29.7051518,Harris County Flood Control District
+650,650 Patricks Bayou @ East 8th Street,657,WindGust,-95.1175924,29.7051518,Harris County Flood Control District
+660,660 Boggy Bayou @ San Augustine Street,101,SoilSaturation 5cm,-95.145048,29.690669,Harris County Flood Control District
+660,660 Boggy Bayou @ San Augustine Street,201,SoilSaturation 20cm,-95.145048,29.690669,Harris County Flood Control District
+660,660 Boggy Bayou @ San Augustine Street,301,SoilSaturation 40cm,-95.145048,29.690669,Harris County Flood Control District
+660,660 Boggy Bayou @ San Augustine Street,660,Rain Increment,-95.145048,29.690669,Harris County Flood Control District
+660,660 Boggy Bayou @ San Augustine Street,663,Stream Level,-95.145048,29.690669,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,2,Humidity Sensor,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,3,Barometric Pressure,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,4,WindGust,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,5,Wind Direction,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,101,SoilSaturation 5cm,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,201,SoilSaturation 20cm,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,301,SoilSaturation 40cm,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,710,Rain Increment,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,712,Air Temperature,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,713,Stream Level,-95.077694,29.829041,Harris County Flood Control District
+710,710 San Jacinto River @ Rio Villa,717,Wind Gust,-95.077694,29.829041,Harris County Flood Control District
+720,720 San Jacinto River @ US 90,719,Stream Level,-95.093111,29.876372,Harris County Flood Control District
+720,720 San Jacinto River @ US 90,720,Rain Increment,-95.093111,29.876372,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,1,Air Temperature,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,2,Humidity Sensor,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,3,Barometric Pressure,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,4,WindGust,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,5,Wind Direction,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,6,Wind Gust,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,739,Stream Level,-95.121011,30.0166,Harris County Flood Control District
+740,740 Lake Houston @ FM 1960,740,Rain Increment,-95.121011,30.0166,Harris County Flood Control District
+750,750 Lake Houston Dam Spillway,749,Stream Level,-95.141641,29.916112,Harris County Flood Control District
+750,750 Lake Houston Dam Spillway,750,Rain Increment,-95.141641,29.916112,Harris County Flood Control District
+755,755 San Jacinto River @ Lake Houston Pkwy,101,SoilSaturation 5cm,-95.175246,30.03041,Harris County Flood Control District
+755,755 San Jacinto River @ Lake Houston Pkwy,201,SoilSaturation 20cm,-95.175246,30.03041,Harris County Flood Control District
+755,755 San Jacinto River @ Lake Houston Pkwy,301,SoilSaturation 40cm,-95.175246,30.03041,Harris County Flood Control District
+755,755 San Jacinto River @ Lake Houston Pkwy,755,Rain Increment,-95.175246,30.03041,Harris County Flood Control District
+755,755 San Jacinto River @ Lake Houston Pkwy,758,Stream Level,-95.175246,30.03041,Harris County Flood Control District
+760,760 San Jacinto River @ US 59,759,Stream Level,-95.257999,30.026775,Harris County Flood Control District
+760,760 San Jacinto River @ US 59,760,Rain Increment,-95.257999,30.026775,Harris County Flood Control District
+765,765 San Jacinto River @ SH 99,764,Stream Level,-95.338411,30.141156,Harris County Flood Control District
+765,765 San Jacinto River @ SH 99,765,Rain Increment,-95.338411,30.141156,Harris County Flood Control District
+770,770 San Jacinto River @ SH 242,770,Rain Increment,-95.397854,30.210437,Harris County Flood Control District
+770,770 San Jacinto River @ SH 242,773,Stream Level,-95.397854,30.210437,Harris County Flood Control District
+774,774 Lake Creek @ Sendera Ranch Drive,774,Rain Increment,-95.563715,30.257742,Harris County Flood Control District
+774,774 Lake Creek @ Sendera Ranch Drive,7747,Stream Level,-95.563715,30.257742,Harris County Flood Control District
+776,776 Lake Creek @ SH 149,776,Rain Increment,-95.705271,30.280432,Harris County Flood Control District
+776,776 Lake Creek @ SH 149,7767,Stream Level,-95.705271,30.280432,Harris County Flood Control District
+777,777 Caney Creek @ US 59,777,Rain Increment,-95.21084,30.16165,Harris County Flood Control District
+777,777 Caney Creek @ US 59,77710,Stream Level,-95.21084,30.16165,Harris County Flood Control District
+778,778 Caney Creek @ Firetower Road,778,Rain Increment,-95.25534,30.20463,Harris County Flood Control District
+778,778 Caney Creek @ Firetower Road,7787,Stream Level,-95.25534,30.20463,Harris County Flood Control District
+780,780 Caney Creek @ FM 2090,779,Stream Level,-95.302114,30.259784,Harris County Flood Control District
+780,780 Caney Creek @ FM 2090,780,Rain Increment,-95.302114,30.259784,Harris County Flood Control District
+781,781 Peach Creek @ SH 99,781,Rain Increment,-95.171311,30.147717,Harris County Flood Control District
+781,781 Peach Creek @ SH 99,7817,Stream Level,-95.171311,30.147717,Harris County Flood Control District
+782,782 Peach Creek @ Roman Forest Boulevard,782,Rain Increment,-95.177263,30.172747,Harris County Flood Control District
+782,782 Peach Creek @ Roman Forest Boulevard,7827,Stream Level,-95.177263,30.172747,Harris County Flood Control District
+785,785 Peach Creek @ FM 2090,101,SoilSaturation 5cm,-95.168007,30.232609,Harris County Flood Control District
+785,785 Peach Creek @ FM 2090,201,SoilSaturation 20cm,-95.168007,30.232609,Harris County Flood Control District
+785,785 Peach Creek @ FM 2090,301,SoilSaturation 40cm,-95.168007,30.232609,Harris County Flood Control District
+785,785 Peach Creek @ FM 2090,784,Stream Level,-95.168007,30.232609,Harris County Flood Control District
+785,785 Peach Creek @ FM 2090,785,Rain Increment,-95.168007,30.232609,Harris County Flood Control District
+786,786 Caney Creek @ SH 105,786,Rain Increment,-95.331844,30.332958,Harris County Flood Control District
+786,786 Caney Creek @ SH 105,7867,Stream Level,-95.331844,30.332958,Harris County Flood Control District
+790,790 East Fork San Jacinto @ SH 99,789,Stream Level,-95.123827,30.146188,Harris County Flood Control District
+790,790 East Fork San Jacinto @ SH 99,790,Rain Increment,-95.123827,30.146188,Harris County Flood Control District
+795,795 East Fork San Jacinto @ FM 2090,795,Rain Increment,-95.10292,30.214124,Harris County Flood Control District
+795,795 East Fork San Jacinto @ FM 2090,798,Stream Level,-95.10292,30.214124,Harris County Flood Control District
+796,796 East Fork San Jacinto @ SH 105,796,Rain Increment,-95.103889,30.336389,Harris County Flood Control District
+796,796 East Fork San Jacinto @ SH 105,797,Stream Level,-95.103889,30.336389,Harris County Flood Control District
+820,820 Hunting Bayou @ I-10,820,Rain Increment,-95.227954,29.771615,Harris County Flood Control District
+820,820 Hunting Bayou @ I-10,823,Stream Level,-95.227954,29.771615,Harris County Flood Control District
+830,830 Hunting Bayou @ Loop 610 East,101,SoilSaturation 5cm,-95.267971,29.793569,Harris County Flood Control District
+830,830 Hunting Bayou @ Loop 610 East,201,SoilSaturation 20cm,-95.267971,29.793569,Harris County Flood Control District
+830,830 Hunting Bayou @ Loop 610 East,301,SoilSaturation 40cm,-95.267971,29.793569,Harris County Flood Control District
+830,830 Hunting Bayou @ Loop 610 East,829,Stream Level,-95.267971,29.793569,Harris County Flood Control District
+830,830 Hunting Bayou @ Loop 610 East,830,Rain Increment,-95.267971,29.793569,Harris County Flood Control District
+840,840 Hunting Bayou @ Lockwood Drive,839,Stream Level,-95.310118,29.808314,Harris County Flood Control District
+840,840 Hunting Bayou @ Lockwood Drive,840,Rain Increment,-95.310118,29.808314,Harris County Flood Control District
+910,910 Vince Bayou @ Fairmont Parkway,910,Rain Increment,-95.192053,29.651718,Harris County Flood Control District
+910,910 Vince Bayou @ Fairmont Parkway,9107,Stream Level,-95.192053,29.651718,Harris County Flood Control District
+920,920 Vince Bayou @ West Ellaine Avenue,919,Stream Level,-95.21614,29.694493,Harris County Flood Control District
+920,920 Vince Bayou @ West Ellaine Avenue,920,Rain Increment,-95.21614,29.694493,Harris County Flood Control District
+940,940 Little Vince Bayou @ Jackson Avenue,940,Rain Increment,-95.200141,29.705491,Harris County Flood Control District
+940,940 Little Vince Bayou @ Jackson Avenue,943,Stream Level,-95.200141,29.705491,Harris County Flood Control District
+1000,1000 Houston Transtar,4,WindGust,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,5,Wind Direction,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,6,Wind Gust,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,1000,Rain Increment,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,1002,Air Temperature,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,1004,Barometric Pressure,-95.439563,29.782684,Harris County Flood Control District
+1000,1000 Houston Transtar,1006,Humidity Sensor,-95.439563,29.782684,Harris County Flood Control District
+1020,1020 NRG Park,4,WindGust,-95.408197,29.679054,Harris County Flood Control District
+1020,1020 NRG Park,5,Wind Direction,-95.408197,29.679054,Harris County Flood Control District
+1020,1020 NRG Park,1020,Rain Increment,-95.408197,29.679054,Harris County Flood Control District
+1020,1020 NRG Park,1022,Air Temperature,-95.408197,29.679054,Harris County Flood Control District
+1020,1020 NRG Park,1024,Barometric Pressure,-95.408197,29.679054,Harris County Flood Control District
+1020,1020 NRG Park,1027,Wind Gust,-95.408197,29.679054,Harris County Flood Control District
+1040,1040 Spring Creek @ FM 2978,1040,Rain Increment,-95.596571,30.134077,Harris County Flood Control District
+1040,1040 Spring Creek @ FM 2978,1041,Stream Level,-95.596571,30.134077,Harris County Flood Control District
+1050,1050 Spring Creek @ I-45,101,SoilSaturation 5cm,-95.436785,30.109633,Harris County Flood Control District
+1050,1050 Spring Creek @ I-45,201,SoilSaturation 20cm,-95.436785,30.109633,Harris County Flood Control District
+1050,1050 Spring Creek @ I-45,301,SoilSaturation 40cm,-95.436785,30.109633,Harris County Flood Control District
+1050,1050 Spring Creek @ I-45,1049,Stream Level,-95.436785,30.109633,Harris County Flood Control District
+1050,1050 Spring Creek @ I-45,1050,Rain Increment,-95.436785,30.109633,Harris County Flood Control District
+1052,1052 Mill Creek @ FM 149,101,SoilSaturation 5cm,-95.681837,30.185636,Harris County Flood Control District
+1052,1052 Mill Creek @ FM 149,201,SoilSaturation 20cm,-95.681837,30.185636,Harris County Flood Control District
+1052,1052 Mill Creek @ FM 149,301,SoilSaturation 40cm,-95.681837,30.185636,Harris County Flood Control District
+1052,1052 Mill Creek @ FM 149,1051,Stream Level,-95.681837,30.185636,Harris County Flood Control District
+1052,1052 Mill Creek @ FM 149,1052,Rain Increment,-95.681837,30.185636,Harris County Flood Control District
+1053,1053 Dry Creek @ FM 2978,1053,Rain Increment,-95.600909,30.175359,Harris County Flood Control District
+1053,1053 Dry Creek @ FM 2978,10531,Stream Level,-95.600909,30.175359,Harris County Flood Control District
+1054,1054 Mill Creek @ FM 1486,1054,Rain Increment,-95.770421,30.238181,Harris County Flood Control District
+1055,1055 Bear Branch @ Kuykendahl,1055,Rain Increment,-95.535489,30.196484,Harris County Flood Control District
+1055,1055 Bear Branch @ Kuykendahl,10557,Stream Level,-95.535489,30.196484,Harris County Flood Control District
+1056,1056 Mill Creek @ FM 1774,1056,Rain Increment,-95.835022,30.298096,Harris County Flood Control District
+1056,1056 Mill Creek @ FM 1774,10567,Stream Level,-95.835022,30.298096,Harris County Flood Control District
+1060,1060 Spring Creek @ Kuykendahl Road,1060,Rain Increment,-95.541396,30.170279,Harris County Flood Control District
+1060,1060 Spring Creek @ Kuykendahl Road,1063,Stream Level,-95.541396,30.170279,Harris County Flood Control District
+1070,1070 Spring Creek @ SH 249,1070,Rain Increment,-95.646199,30.119036,Harris County Flood Control District
+1070,1070 Spring Creek @ SH 249,10707,Stream Level,-95.646199,30.119036,Harris County Flood Control District
+1072,1072 Walnut Creek @ Nichols Sawmill,1071,Stream Level,-95.752812,30.143696,Harris County Flood Control District
+1072,1072 Walnut Creek @ Nichols Sawmill,1072,Rain Increment,-95.752812,30.143696,Harris County Flood Control District
+1074,1074 Walnut Creek @ Joseph Road,1074,Rain Increment,-95.809912,30.178866,Harris County Flood Control District
+1074,1074 Walnut Creek @ Joseph Road,1074,Stream Level,-95.809912,30.178866,Harris County Flood Control District
+1075,1075 Tomball Repeater,101,SoilSaturation 5cm,-95.6573377,30.0964515,Harris County Flood Control District
+1075,1075 Tomball Repeater,201,SoilSaturation 20cm,-95.6573377,30.0964515,Harris County Flood Control District
+1075,1075 Tomball Repeater,301,SoilSaturation 40cm,-95.6573377,30.0964515,Harris County Flood Control District
+1075,1075 Tomball Repeater,1075,Rain Increment,-95.6573377,30.0964515,Harris County Flood Control District
+1076,1076 Birch Creek @ Riley Road,101,SoilSaturation 5cm,-95.839529,30.237906,Harris County Flood Control District
+1076,1076 Birch Creek @ Riley Road,201,SoilSaturation 20cm,-95.839529,30.237906,Harris County Flood Control District
+1076,1076 Birch Creek @ Riley Road,301,SoilSaturation 40cm,-95.839529,30.237906,Harris County Flood Control District
+1076,1076 Birch Creek @ Riley Road,1076,Rain Increment,-95.839529,30.237906,Harris County Flood Control District
+1076,1076 Birch Creek @ Riley Road,1076,Stream Level,-95.839529,30.237906,Harris County Flood Control District
+1080,1080 Spring Creek @ Decker Prairie-Rosehill Road,1080,Rain Increment,-95.702029,30.099319,Harris County Flood Control District
+1080,1080 Spring Creek @ Decker Prairie-Rosehill Road,10807,Stream Level,-95.702029,30.099319,Harris County Flood Control District
+1084,1084 Threemile Creek @ Joseph Road,101,SoilSaturation 5cm,-95.863216,30.152994,Harris County Flood Control District
+1084,1084 Threemile Creek @ Joseph Road,201,SoilSaturation 20cm,-95.863216,30.152994,Harris County Flood Control District
+1084,1084 Threemile Creek @ Joseph Road,301,SoilSaturation 40cm,-95.863216,30.152994,Harris County Flood Control District
+1084,1084 Threemile Creek @ Joseph Road,1084,Stream Level,-95.863216,30.152994,Harris County Flood Control District
+1084,1084 Threemile Creek @ Joseph Road,1084,Rain Increment,-95.863216,30.152994,Harris County Flood Control District
+1086,1086 Threemile Creek @ FM 362,1086,Rain Increment,-95.933637,30.193345,Harris County Flood Control District
+1086,1086 Threemile Creek @ FM 362,1087,Stream Level,-95.933637,30.193345,Harris County Flood Control District
+1090,1090 Spring Creek @ Hegar Road,1090,Rain Increment,-95.841879,30.085697,Harris County Flood Control District
+1090,1090 Spring Creek @ Hegar Road,1093,Stream Level,-95.841879,30.085697,Harris County Flood Control District
+1110,1110 Cypress Creek @ Cypresswood Drive,1110,Rain Increment,-95.330033,30.031016,Harris County Flood Control District
+1110,1110 Cypress Creek @ Cypresswood Drive,1111,Stream Level,-95.330033,30.031016,Harris County Flood Control District
+1115,1115 Cypress Creek @ Inverness Forest,1114,Stream Level,-95.409868,30.034738,Harris County Flood Control District
+1115,1115 Cypress Creek @ Inverness Forest,1115,Rain Increment,-95.409868,30.034738,Harris County Flood Control District
+1115,1115 Cypress Creek @ Inverness Forest,1118,Stream Level,-95.409868,30.034738,Harris County Flood Control District
+1120,1120 Cypress Creek @ I-45,1119,Stream Level,-95.428694,30.036344,Harris County Flood Control District
+1120,1120 Cypress Creek @ I-45,1120,Rain Increment,-95.428694,30.036344,Harris County Flood Control District
+1130,1130 Cypress Creek @ Kuykendahl Road,1130,Rain Increment,-95.475879,30.023755,Harris County Flood Control District
+1130,1130 Cypress Creek @ Kuykendahl Road,1133,Stream Level,-95.475879,30.023755,Harris County Flood Control District
+1140,1140 Cypress Creek @ Stuebner-Airline Road,101,SoilSaturation 5cm,-95.511647,30.006281,Harris County Flood Control District
+1140,1140 Cypress Creek @ Stuebner-Airline Road,201,SoilSaturation 20cm,-95.511647,30.006281,Harris County Flood Control District
+1140,1140 Cypress Creek @ Stuebner-Airline Road,301,SoilSaturation 40cm,-95.511647,30.006281,Harris County Flood Control District
+1140,1140 Cypress Creek @ Stuebner-Airline Road,1139,Stream Level,-95.511647,30.006281,Harris County Flood Control District
+1140,1140 Cypress Creek @ Stuebner-Airline Road,1140,Rain Increment,-95.511647,30.006281,Harris County Flood Control District
+1150,1150 Cypress Creek @ SH 249,1150,Rain Increment,-95.569924,29.985654,Harris County Flood Control District
+1150,1150 Cypress Creek @ SH 249,1153,Stream Level,-95.569924,29.985654,Harris County Flood Control District
+1160,1160 Cypress Creek @ Grant Road,1159,Stream Level,-95.598483,29.973483,Harris County Flood Control District
+1160,1160 Cypress Creek @ Grant Road,1160,Rain Increment,-95.598483,29.973483,Harris County Flood Control District
+1165,1165 Cypress Creek @ Eldridge Parkway N.,1165,Rain Increment,-95.607313,29.966194,Harris County Flood Control District
+1165,1165 Cypress Creek @ Eldridge Parkway N.,1168,Stream Level,-95.607313,29.966194,Harris County Flood Control District
+1170,1170 Cypress Creek @ Huffmeister Road,101,SoilSaturation 5cm,-95.631215,29.961554,Harris County Flood Control District
+1170,1170 Cypress Creek @ Huffmeister Road,201,SoilSaturation 20cm,-95.631215,29.961554,Harris County Flood Control District
+1170,1170 Cypress Creek @ Huffmeister Road,301,SoilSaturation 40cm,-95.631215,29.961554,Harris County Flood Control District
+1170,1170 Cypress Creek @ Huffmeister Road,1169,Stream Level,-95.631215,29.961554,Harris County Flood Control District
+1170,1170 Cypress Creek @ Huffmeister Road,1170,Rain Increment,-95.631215,29.961554,Harris County Flood Control District
+1175,1175 Cypress Creek @ US 290,1175,Rain Increment,-95.6782,29.95686,Harris County Flood Control District
+1175,1175 Cypress Creek @ US 290,1178,Stream Level,-95.6782,29.95686,Harris County Flood Control District
+1180,1180 Cypress Creek @ Katy-Hockley Road,1179,Stream Level,-95.808312,29.950388,Harris County Flood Control District
+1180,1180 Cypress Creek @ Katy-Hockley Road,1180,Rain Increment,-95.808312,29.950388,Harris County Flood Control District
+1185,1185 Cypress Creek @ Sharp Road,101,SoilSaturation 5cm,-95.840178,29.921049,Harris County Flood Control District
+1185,1185 Cypress Creek @ Sharp Road,201,SoilSaturation 20cm,-95.840178,29.921049,Harris County Flood Control District
+1185,1185 Cypress Creek @ Sharp Road,301,SoilSaturation 40cm,-95.840178,29.921049,Harris County Flood Control District
+1185,1185 Cypress Creek @ Sharp Road,1185,Rain Increment,-95.840178,29.921049,Harris County Flood Control District
+1185,1185 Cypress Creek @ Sharp Road,1188,Stream Level,-95.840178,29.921049,Harris County Flood Control District
+1186,1186 Live Oak Creek @ Penick Road,101,SoilSaturation 5cm,-95.924128,29.948015,Harris County Flood Control District
+1186,1186 Live Oak Creek @ Penick Road,201,SoilSaturation 20cm,-95.924128,29.948015,Harris County Flood Control District
+1186,1186 Live Oak Creek @ Penick Road,301,SoilSaturation 40cm,-95.924128,29.948015,Harris County Flood Control District
+1186,1186 Live Oak Creek @ Penick Road,1186,Rain Increment,-95.924128,29.948015,Harris County Flood Control District
+1186,1186 Live Oak Creek @ Penick Road,11867,Stream Level,-95.924128,29.948015,Harris County Flood Control District
+1190,1190 Little Mound Creek @ Mathis Road,1189,Stream Level,-95.907953,30.005339,Harris County Flood Control District
+1190,1190 Little Mound Creek @ Mathis Road,1190,Rain Increment,-95.907953,30.005339,Harris County Flood Control District
+1195,1195 Mound Creek @ FM 362,1194,Stream Level,-95.936264,30.043079,Harris County Flood Control District
+1195,1195 Mound Creek @ FM 362,1195,Rain Increment,-95.936264,30.043079,Harris County Flood Control District
+1210,1210 Little Cypress Creek @ Kluge Road,1209,Stream Level,-95.630248,29.977553,Harris County Flood Control District
+1210,1210 Little Cypress Creek @ Kluge Road,1210,Rain Increment,-95.630248,29.977553,Harris County Flood Control District
+1220,1220 Little Cypress Creek @ Cypress Rosehill Road,1219,Stream Level,-95.697286,30.01593,Harris County Flood Control District
+1220,1220 Little Cypress Creek @ Cypress Rosehill Road,1220,Rain Increment,-95.697286,30.01593,Harris County Flood Control District
+1230,1230 Little Cypress Creek @ Becker Road,1230,Rain Increment,-95.799237,30.027473,Harris County Flood Control District
+1230,1230 Little Cypress Creek @ Becker Road,1233,Stream Level,-95.799237,30.027473,Harris County Flood Control District
+1320,1320 Willow Creek @ Kuykendahl Road,1319,Stream Level,-95.546382,30.105339,Harris County Flood Control District
+1320,1320 Willow Creek @ Kuykendahl Road,1320,Rain Increment,-95.546382,30.105339,Harris County Flood Control District
+1340,1340 Willow Creek @ SH 249,1339,Stream Level,-95.6198277,30.0627283,Harris County Flood Control District
+1340,1340 Willow Creek @ SH 249,1340,Rain Increment,-95.6198277,30.0627283,Harris County Flood Control District
+1420,1420 Carpenters Bayou @ I-10,1419,Stream Level,-95.149022,29.771535,Harris County Flood Control District
+1420,1420 Carpenters Bayou @ I-10,1420,Rain Increment,-95.149022,29.771535,Harris County Flood Control District
+1440,1440 Carpenters Bayou @ Wallisville Road,1440,Rain Increment,-95.158445,29.809924,Harris County Flood Control District
+1440,1440 Carpenters Bayou @ Wallisville Road,1443,Stream Level,-95.158445,29.809924,Harris County Flood Control District
+1460,1460 Carpenters Bayou @ US 90,1459,Stream Level,-95.160484,29.838598,Harris County Flood Control District
+1460,1460 Carpenters Bayou @ US 90,1460,Rain Increment,-95.160484,29.838598,Harris County Flood Control District
+1470,1470 Sheldon Reservoir @ Garrett Road,1470,Rain Increment,-95.187485,29.883123,Harris County Flood Control District
+1470,1470 Sheldon Reservoir @ Garrett Road,1471,Stream Level,-95.187485,29.883123,Harris County Flood Control District
+1520,1520 Goose Creek @ SH 99,1519,Stream Level,-94.990514,29.713447,Harris County Flood Control District
+1520,1520 Goose Creek @ SH 99,1520,Rain Increment,-94.990514,29.713447,Harris County Flood Control District
+1540,1540 Goose Creek @ Baker Road,1539,Stream Level,-94.999611,29.770944,Harris County Flood Control District
+1540,1540 Goose Creek @ Baker Road,1540,Rain Increment,-94.999611,29.770944,Harris County Flood Control District
+1550,1550 Goose Creek @ I-10,1550,Rain Increment,-95.004504,29.800736,Harris County Flood Control District
+1550,1550 Goose Creek @ I-10,1553,Stream Level,-95.004504,29.800736,Harris County Flood Control District
+1600,1600 Greens Bayou @ Mount Houston Parkway,101,SoilSaturation 5cm,-95.237623,29.891907,Harris County Flood Control District
+1600,1600 Greens Bayou @ Mount Houston Parkway,201,SoilSaturation 20cm,-95.237623,29.891907,Harris County Flood Control District
+1600,1600 Greens Bayou @ Mount Houston Parkway,301,SoilSaturation 40cm,-95.237623,29.891907,Harris County Flood Control District
+1600,1600 Greens Bayou @ Mount Houston Parkway,1559,Stream Level,-95.237623,29.891907,Harris County Flood Control District
+1600,1600 Greens Bayou @ Mount Houston Parkway,1600,Rain Increment,-95.237623,29.891907,Harris County Flood Control District
+1610,1610 Greens Bayou @ Normandy Street,101,SoilSaturation 5cm,-95.206451,29.776023,Harris County Flood Control District
+1610,1610 Greens Bayou @ Normandy Street,201,SoilSaturation 20cm,-95.206451,29.776023,Harris County Flood Control District
+1610,1610 Greens Bayou @ Normandy Street,301,SoilSaturation 40cm,-95.206451,29.776023,Harris County Flood Control District
+1610,1610 Greens Bayou @ Normandy Street,1610,Rain Increment,-95.206451,29.776023,Harris County Flood Control District
+1610,1610 Greens Bayou @ Normandy Street,1613,Stream Level,-95.206451,29.776023,Harris County Flood Control District
+1620,1620 Greens Bayou @ Ley Road,1619,Stream Level,-95.233773,29.837012,Harris County Flood Control District
+1620,1620 Greens Bayou @ Ley Road,1620,Rain Increment,-95.233773,29.837012,Harris County Flood Control District
+1630,1630 Garners Bayou @ Beltway 8,1629,Stream Level,-95.233574,29.933648,Harris County Flood Control District
+1630,1630 Garners Bayou @ Beltway 8,1630,Rain Increment,-95.233574,29.933648,Harris County Flood Control District
+1640,1640 Greens Bayou @ US 59,1640,Rain Increment,-95.306565,29.91791,Harris County Flood Control District
+1640,1640 Greens Bayou @ US 59,1643,Stream Level,-95.306565,29.91791,Harris County Flood Control District
+1645,1645 Greens Bayou @ Beltway 8,101,SoilSaturation 5cm,-95.34932,29.938692,Harris County Flood Control District
+1645,1645 Greens Bayou @ Beltway 8,201,SoilSaturation 20cm,-95.34932,29.938692,Harris County Flood Control District
+1645,1645 Greens Bayou @ Beltway 8,301,SoilSaturation 40cm,-95.34932,29.938692,Harris County Flood Control District
+1645,1645 Greens Bayou @ Beltway 8,1645,Rain Increment,-95.34932,29.938692,Harris County Flood Control District
+1645,1645 Greens Bayou @ Beltway 8,1648,Stream Level,-95.34932,29.938692,Harris County Flood Control District
+1650,1650 Garners Bayou @ Rankin Road,1649,Stream Level,-95.271954,29.965025,Harris County Flood Control District
+1650,1650 Garners Bayou @ Rankin Road,1650,Rain Increment,-95.271954,29.965025,Harris County Flood Control District
+1655,1655 North Fork Greens Bayou @ Ella,101,SoilSaturation 5cm,-95.435011,29.972595,Harris County Flood Control District
+1655,1655 North Fork Greens Bayou @ Ella,201,SoilSaturation 20cm,-95.435011,29.972595,Harris County Flood Control District
+1655,1655 North Fork Greens Bayou @ Ella,301,SoilSaturation 40cm,-95.435011,29.972595,Harris County Flood Control District
+1655,1655 North Fork Greens Bayou @ Ella,1655,Rain Increment,-95.435011,29.972595,Harris County Flood Control District
+1655,1655 North Fork Greens Bayou @ Ella,1657,Stream Level,-95.435011,29.972595,Harris County Flood Control District
+1660,1660 Greens Bayou @ Knobcrest Drive,1659,Stream Level,-95.416142,29.956166,Harris County Flood Control District
+1660,1660 Greens Bayou @ Knobcrest Drive,1660,Rain Increment,-95.416142,29.956166,Harris County Flood Control District
+1665,1665 Greens Bayou @ Bammel N Houston Road,1665,Rain Increment,-95.498006,29.948488,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,1,Air Temperature,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,2,Humidity Sensor,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,3,Barometric Pressure,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,4,WindGust,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,5,Wind Direction,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,6,Wind Gust,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,1669,Stream Level,-95.51941,29.948972,Harris County Flood Control District
+1670,1670 Greens Bayou @ Cutten Road,1670,Rain Increment,-95.51941,29.948972,Harris County Flood Control District
+1675,1675 Halls Bayou @ Tidwell Road,101,SoilSaturation 5cm,-95.282843,29.849306,Harris County Flood Control District
+1675,1675 Halls Bayou @ Tidwell Road,201,SoilSaturation 20cm,-95.282843,29.849306,Harris County Flood Control District
+1675,1675 Halls Bayou @ Tidwell Road,301,SoilSaturation 40cm,-95.282843,29.849306,Harris County Flood Control District
+1675,1675 Halls Bayou @ Tidwell Road,1674,Stream Level,-95.282843,29.849306,Harris County Flood Control District
+1675,1675 Halls Bayou @ Tidwell Road,1675,Rain Increment,-95.282843,29.849306,Harris County Flood Control District
+1680,1680 Halls Bayou @ Jensen Drive,1679,Stream Level,-95.334883,29.861698,Harris County Flood Control District
+1680,1680 Halls Bayou @ Jensen Drive,1680,Rain Increment,-95.334883,29.861698,Harris County Flood Control District
+1685,1685 Greens Bayou @ Tidwell Road,1685,Rain Increment,-95.229007,29.849798,Harris County Flood Control District
+1685,1685 Greens Bayou @ Tidwell Road,1688,Stream Level,-95.229007,29.849798,Harris County Flood Control District
+1690,1690 Halls Bayou @ Airline Drive,1689,Stream Level,-95.396717,29.892682,Harris County Flood Control District
+1690,1690 Halls Bayou @ Airline Drive,1690,Rain Increment,-95.396717,29.892682,Harris County Flood Control District
+1695,1695 P138 @ Aldine Westfield Road,1695,Rain Increment,-95.355514,29.917302,Harris County Flood Control District
+1695,1695 P138 @ Aldine Westfield Road,1698,Stream Level,-95.355514,29.917302,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,1,Air Temperature,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,2,Humidity Sensor,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,3,Barometric Pressure,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,4,WindGust,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,5,Wind Direction,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,6,Wind Gust,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,1710,Rain Increment,-94.942738,29.719713,Harris County Flood Control District
+1710,1710 Cedar Bayou @ SH 99,1713,Stream Level,-94.942738,29.719713,Harris County Flood Control District
+1720,1720 Cedar Bayou @ SH 146,1719,Stream Level,-94.916822,29.769851,Harris County Flood Control District
+1720,1720 Cedar Bayou @ SH 146,1720,Rain Increment,-94.916822,29.769851,Harris County Flood Control District
+1725,1725 Smith Gully @ SH 146,1724,Stream Level,-94.897975,29.826742,Harris County Flood Control District
+1725,1725 Smith Gully @ SH 146,1725,Rain Increment,-94.897975,29.826742,Harris County Flood Control District
+1730,1730 Cedar Bayou @ FM 1942,101,SoilSaturation 5cm,-94.947525,29.849395,Harris County Flood Control District
+1730,1730 Cedar Bayou @ FM 1942,201,SoilSaturation 20cm,-94.947525,29.849395,Harris County Flood Control District
+1730,1730 Cedar Bayou @ FM 1942,301,SoilSaturation 40cm,-94.947525,29.849395,Harris County Flood Control District
+1730,1730 Cedar Bayou @ FM 1942,1730,Rain Increment,-94.947525,29.849395,Harris County Flood Control District
+1730,1730 Cedar Bayou @ FM 1942,1733,Stream Level,-94.947525,29.849395,Harris County Flood Control District
+1740,1740 Cedar Bayou @ US 90,1739,Stream Level,-94.985937,29.97209,Harris County Flood Control District
+1740,1740 Cedar Bayou @ US 90,1740,Rain Increment,-94.985937,29.97209,Harris County Flood Control District
+1745,1745 Cedar Bayou @ FM 1960,1745,Rain Increment,-95.0544,30.0361,Harris County Flood Control District
+1745,1745 Cedar Bayou @ FM 1960,1748,Stream Level,-95.0544,30.0361,Harris County Flood Control District
+1840,1840 Gum Gully @ Diamond Head Boulevard,1840,Rain Increment,-95.09085,29.910874,Harris County Flood Control District
+1840,1840 Gum Gully @ Diamond Head Boulevard,1843,Stream Level,-95.09085,29.910874,Harris County Flood Control District
+1930,1930 Huffman Repeater,101,SoilSaturation 5cm,-95.071238,30.035831,Harris County Flood Control District
+1930,1930 Huffman Repeater,201,SoilSaturation 20cm,-95.071238,30.035831,Harris County Flood Control District
+1930,1930 Huffman Repeater,301,SoilSaturation 40cm,-95.071238,30.035831,Harris County Flood Control District
+1930,1930 Huffman Repeater,1930,Rain Increment,-95.071238,30.035831,Harris County Flood Control District
+1940,1940 Luce Bayou @ FM 2100,1940,Rain Increment,-95.098249,30.066805,Harris County Flood Control District
+1940,1940 Luce Bayou @ FM 2100,1943,Stream Level,-95.098249,30.066805,Harris County Flood Control District
+1950,1950 Luce Bayou @ SH 99,1950,Rain Increment,-95.049547,30.125826,Harris County Flood Control District
+1950,1950 Luce Bayou @ SH 99,1953,Stream Level,-95.049547,30.125826,Harris County Flood Control District
+1960,1960 Luce Bayou @ SH 321,101,SoilSaturation 5cm,-94.9398897,30.180512,Harris County Flood Control District
+1960,1960 Luce Bayou @ SH 321,201,SoilSaturation 20cm,-94.9398897,30.180512,Harris County Flood Control District
+1960,1960 Luce Bayou @ SH 321,301,SoilSaturation 40cm,-94.9398897,30.180512,Harris County Flood Control District
+1960,1960 Luce Bayou @ SH 321,1960,Rain Increment,-94.9398897,30.180512,Harris County Flood Control District
+1960,1960 Luce Bayou @ SH 321,1963,Stream Level,-94.9398897,30.180512,Harris County Flood Control District
+1975,1975 Tarkington Bayou @ SH 105,50,Stream Level,-95.0436996,30.3212885,Harris County Flood Control District
+1975,1975 Tarkington Bayou @ SH 105,1975,Rain Increment,-95.0436996,30.3212885,Harris County Flood Control District
+2010,2010 Barker Dam,2010,Rain Increment,-95.6466,29.7707,Harris County Flood Control District
+2010,2010 Barker Dam,2013,Stream Level,-95.6466,29.7707,Harris County Flood Control District
+2015,2015 Clodine Ditch @ Grand Mission Blvd,2015,Rain Increment,-95.717648,29.694303,Harris County Flood Control District
+2015,2015 Clodine Ditch @ Grand Mission Blvd,20157,Stream Level,-95.717648,29.694303,Harris County Flood Control District
+2020,2020 Mason Creek @ Prince Creek Drive,2020,Rain Increment,-95.728164,29.76716,Harris County Flood Control District
+2020,2020 Mason Creek @ Prince Creek Drive,2023,Stream Level,-95.728164,29.76716,Harris County Flood Control District
+2025,2025 Buffalo Bayou @ Peek Road,101,SoilSaturation 5cm,-95.767445,29.722212,Harris County Flood Control District
+2025,2025 Buffalo Bayou @ Peek Road,201,SoilSaturation 20cm,-95.767445,29.722212,Harris County Flood Control District
+2025,2025 Buffalo Bayou @ Peek Road,301,SoilSaturation 40cm,-95.767445,29.722212,Harris County Flood Control District
+2025,2025 Buffalo Bayou @ Peek Road,2024,Stream Level,-95.767445,29.722212,Harris County Flood Control District
+2025,2025 Buffalo Bayou @ Peek Road,2025,Rain Increment,-95.767445,29.722212,Harris County Flood Control District
+2030,2030 Buffalo Bayou @ Greenbusch Road,2029,Stream Level,-95.807036,29.743106,Harris County Flood Control District
+2030,2030 Buffalo Bayou @ Greenbusch Road,2030,Rain Increment,-95.807036,29.743106,Harris County Flood Control District
+2040,2040 Buffalo Bayou @ US 90,2040,Rain Increment,-95.827024,29.785685,Harris County Flood Control District
+2040,2040 Buffalo Bayou @ US 90,2043,Stream Level,-95.827024,29.785685,Harris County Flood Control District
+2050,2050 Cane Island Branch @ Clay Road,2049,Stream Level,-95.836824,29.831083,Harris County Flood Control District
+2050,2050 Cane Island Branch @ Clay Road,2050,Rain Increment,-95.836824,29.831083,Harris County Flood Control District
+2060,2060 Willow Fork Creek @ Pederson Road,2059,Stream Level,-95.880975,29.770608,Harris County Flood Control District
+2060,2060 Willow Fork Creek @ Pederson Road,2060,Rain Increment,-95.880975,29.770608,Harris County Flood Control District
+2090,2090 Brookshire Katy Drainage District @ Morrison Road,2089,Stream Level,-95.940939,29.888456,Harris County Flood Control District
+2090,2090 Brookshire Katy Drainage District @ Morrison Road,2090,Rain Increment,-95.940939,29.888456,Harris County Flood Control District
+2110,2110 Addicks Dam,2110,Rain Increment,-95.625,29.7907,Harris County Flood Control District
+2110,2110 Addicks Dam,2113,Stream Level,-95.625,29.7907,Harris County Flood Control District
+2115,2115 Langham Creek @ Clay Rd,2114,Stream Level,-95.625928,29.835918,Harris County Flood Control District
+2115,2115 Langham Creek @ Clay Rd,2115,Rain Increment,-95.625928,29.835918,Harris County Flood Control District
+2120,2120 Langham Creek @ West Little York Road,101,SoilSaturation 5cm,-95.647061,29.867456,Harris County Flood Control District
+2120,2120 Langham Creek @ West Little York Road,201,SoilSaturation 20cm,-95.647061,29.867456,Harris County Flood Control District
+2120,2120 Langham Creek @ West Little York Road,301,SoilSaturation 40cm,-95.647061,29.867456,Harris County Flood Control District
+2120,2120 Langham Creek @ West Little York Road,2119,Stream Level,-95.647061,29.867456,Harris County Flood Control District
+2120,2120 Langham Creek @ West Little York Road,2120,Rain Increment,-95.647061,29.867456,Harris County Flood Control District
+2130,2130 Horsepen Creek @ Trailside Drive,2129,Stream Level,-95.634892,29.883812,Harris County Flood Control District
+2130,2130 Horsepen Creek @ Trailside Drive,2130,Rain Increment,-95.634892,29.883812,Harris County Flood Control District
+2140,2140 Langham Creek @ Longenbaugh Road,2140,Rain Increment,-95.696832,29.895138,Harris County Flood Control District
+2140,2140 Langham Creek @ Longenbaugh Road,2143,Stream Level,-95.696832,29.895138,Harris County Flood Control District
+2150,2150 South Mayde @ Greenhouse Road,2149,Stream Level,-95.703888,29.802411,Harris County Flood Control District
+2150,2150 South Mayde @ Greenhouse Road,2150,Rain Increment,-95.703888,29.802411,Harris County Flood Control District
+2160,2160 Bear Creek @ Clay Road,2159,Stream Level,-95.686283,29.830828,Harris County Flood Control District
+2160,2160 Bear Creek @ Clay Road,2160,Rain Increment,-95.686283,29.830828,Harris County Flood Control District
+2170,2170 South Mayde Creek @ Morton Road,101,SoilSaturation 5cm,-95.74048,29.816945,Harris County Flood Control District
+2170,2170 South Mayde Creek @ Morton Road,201,SoilSaturation 20cm,-95.74048,29.816945,Harris County Flood Control District
+2170,2170 South Mayde Creek @ Morton Road,301,SoilSaturation 40cm,-95.74048,29.816945,Harris County Flood Control District
+2170,2170 South Mayde Creek @ Morton Road,2170,Rain Increment,-95.74048,29.816945,Harris County Flood Control District
+2170,2170 South Mayde Creek @ Morton Road,2173,Stream Level,-95.74048,29.816945,Harris County Flood Control District
+2180,2180 Bear Creek @ FM 529,101,SoilSaturation 5cm,-95.769477,29.875125,Harris County Flood Control District
+2180,2180 Bear Creek @ FM 529,201,SoilSaturation 20cm,-95.769477,29.875125,Harris County Flood Control District
+2180,2180 Bear Creek @ FM 529,301,SoilSaturation 40cm,-95.769477,29.875125,Harris County Flood Control District
+2180,2180 Bear Creek @ FM 529,2180,Rain Increment,-95.769477,29.875125,Harris County Flood Control District
+2180,2180 Bear Creek @ FM 529,2183,Stream Level,-95.769477,29.875125,Harris County Flood Control District
+2185,2185 John Paul Landing,1,Air Temperature,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,2,Humidity Sensor,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,3,Barometric Pressure,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,4,WindGust,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,5,Wind Direction,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,6,Wind Gust,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,101,SoilSaturation 5cm,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,201,SoilSaturation 20cm,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,301,SoilSaturation 40cm,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,2184,Stream Level,-95.7872222,29.9102972,Harris County Flood Control District
+2185,2185 John Paul Landing,2185,Rain Increment,-95.7872222,29.9102972,Harris County Flood Control District
+2190,2190 South Mayde Creek @ Peek Road,2190,Rain Increment,-95.773611,29.851108,Harris County Flood Control District
+2190,2190 South Mayde Creek @ Peek Road,2193,Stream Level,-95.773611,29.851108,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,1,Air Temperature,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,2,Humidity Sensor,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,3,Barometric Pressure,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,4,WindGust,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,5,Wind Direction,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,6,Wind Gust,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,2200,Rain Increment,-95.081873,29.761977,Harris County Flood Control District
+2200,2200 Houston Ship Channel @ Juan Seguin Park,2203,Stream Level,-95.081873,29.761977,Harris County Flood Control District
+2210,2210 Buffalo Bayou @ Turning Basin,2209,Stream Level,-95.291331,29.749171,Harris County Flood Control District
+2210,2210 Buffalo Bayou @ Turning Basin,2210,Rain Increment,-95.291331,29.749171,Harris County Flood Control District
+2220,2220 Buffalo Bayou @ Milam Street,2219,Stream Level,-95.361102,29.764808,Harris County Flood Control District
+2220,2220 Buffalo Bayou @ Milam Street,2220,Rain Increment,-95.361102,29.764808,Harris County Flood Control District
+2240,2240 Buffalo Bayou @ Shepherd Drive,2239,Stream Level,-95.408655,29.760145,Harris County Flood Control District
+2240,2240 Buffalo Bayou @ Shepherd Drive,2240,Rain Increment,-95.408655,29.760145,Harris County Flood Control District
+2245,2245 Buffalo Bayou @ Woodway Drive,2245,Rain Increment,-95.457926,29.764643,Harris County Flood Control District
+2245,2245 Buffalo Bayou @ Woodway Drive,2248,Stream Level,-95.457926,29.764643,Harris County Flood Control District
+2250,2250 Spring Branch @ Bingle Road,2250,Rain Increment,-95.500348,29.796238,Harris County Flood Control District
+2250,2250 Spring Branch @ Bingle Road,2251,Stream Level,-95.500348,29.796238,Harris County Flood Control District
+2253,2253 Buttermilk Creek @ Moorberry Lane,101,SoilSaturation 5cm,-95.53273,29.815944,Harris County Flood Control District
+2253,2253 Buttermilk Creek @ Moorberry Lane,201,SoilSaturation 20cm,-95.53273,29.815944,Harris County Flood Control District
+2253,2253 Buttermilk Creek @ Moorberry Lane,301,SoilSaturation 40cm,-95.53273,29.815944,Harris County Flood Control District
+2253,2253 Buttermilk Creek @ Moorberry Lane,2253,Rain Increment,-95.53273,29.815944,Harris County Flood Control District
+2253,2253 Buttermilk Creek @ Moorberry Lane,22537,Stream Level,-95.53273,29.815944,Harris County Flood Control District
+2255,2255 Briar Branch @ Campbell Road,2254,Stream Level,-95.5139,29.78962,Harris County Flood Control District
+2255,2255 Briar Branch @ Campbell Road,2255,Rain Increment,-95.5139,29.78962,Harris County Flood Control District
+2260,2260 Buffalo Bayou @ San Felipe Drive,2260,Rain Increment,-95.505614,29.751207,Harris County Flood Control District
+2260,2260 Buffalo Bayou @ San Felipe Drive,2263,Stream Level,-95.505614,29.751207,Harris County Flood Control District
+2265,2265 Buffalo Bayou @ Piney Point Rd,2265,Rain Increment,-95.523656,29.747136,Harris County Flood Control District
+2265,2265 Buffalo Bayou @ Piney Point Rd,2268,Stream Level,-95.523656,29.747136,Harris County Flood Control District
+2270,2270 Buffalo Bayou @ West Beltway 8,101,SoilSaturation 5cm,-95.557476,29.762026,Harris County Flood Control District
+2270,2270 Buffalo Bayou @ West Beltway 8,201,SoilSaturation 20cm,-95.557476,29.762026,Harris County Flood Control District
+2270,2270 Buffalo Bayou @ West Beltway 8,301,SoilSaturation 40cm,-95.557476,29.762026,Harris County Flood Control District
+2270,2270 Buffalo Bayou @ West Beltway 8,2269,Stream Level,-95.557476,29.762026,Harris County Flood Control District
+2270,2270 Buffalo Bayou @ West Beltway 8,2270,Rain Increment,-95.557476,29.762026,Harris County Flood Control District
+2280,2280 Rummel Creek @ Brittmoore Road,2280,Rain Increment,-95.570092,29.778606,Harris County Flood Control District
+2280,2280 Rummel Creek @ Brittmoore Road,2283,Stream Level,-95.570092,29.778606,Harris County Flood Control District
+2290,2290 Buffalo Bayou @ Dairy Ashford Road,2289,Stream Level,-95.606442,29.761597,Harris County Flood Control District
+2290,2290 Buffalo Bayou @ Dairy Ashford Road,2290,Rain Increment,-95.606442,29.761597,Harris County Flood Control District
+2320,2320 Panther Branch @ 1488,2320,Rain Increment,-95.5165171,30.2286884,Woodlands
+2320,2320 Panther Branch @ 1488,2323,Stream Level,-95.5165171,30.2286884,Woodlands
+2330,2330 Alden Branch @ Alden Bridge,2330,Rain Increment,-95.5256125,30.2179537,Woodlands
+2330,2330 Alden Branch @ Alden Bridge,2333,Stream Level,-95.5256125,30.2179537,Woodlands
+2340,2340 Bear Branch @ FM 2978,2340,Rain Increment,-95.5783366,30.205881,Woodlands
+2340,2340 Bear Branch @ FM 2978,2343,Stream Level,-95.5783366,30.205881,Woodlands
+2350,2350 Woodlands Parkway near McBeth Way,2350,Rain Increment,-95.555996,30.181706,Woodlands
+2360,2360 WJPA Field Office near Research Forest Drive,2360,Rain Increment,-95.491603,30.197423,Woodlands
+2370,2370 Grogans Mill Road near Research Forest Drive,2370,Rain Increment,-95.46585,30.175278,Woodlands
+2380,2380 Grogans Point Rd near Red Sable Point,2380,Rain Increment,-95.481564,30.11718,Woodlands
+2510,2510 Brookshire Creek @ US 90,2510,Rain Increment,-95.9366,29.7862,Waller County
+2510,2510 Brookshire Creek @ US 90,25107,Stream Level,-95.9366,29.7862,Waller County
+2520,2520 Bessie Creek @ FM 359,2520,Rain Increment,-96.001468,29.868395,Waller County
+2520,2520 Bessie Creek @ FM 359,25207,Stream Level,-96.001468,29.868395,Waller County
+2560,2560 Irons Creek @ FM 529,2560,Rain Increment,-96.083223,29.9134,Waller County
+2560,2560 Irons Creek @ FM 529,25607,Stream Level,-96.083223,29.9134,Waller County
+2580,2580 Clear Creek @ FM 1887,2580,Rain Increment,-96.086459,29.993244,Waller County
+2580,2580 Clear Creek @ FM 1887,25807,Stream Level,-96.086459,29.993244,Waller County
+2595,2595 Clear Creek @ US 290 Business,2595,Rain Increment,-96.047,30.0873,Waller County
+2595,2595 Clear Creek @ US 290 Business,25957,Stream Level,-96.047,30.0873,Waller County
+3020,3020 I-45 HOV Downtown Terminal,3020,Rain Increment,-95.3566742,29.7423734,TXDOT
+3050,3050 SH-59 @ McGowen,3050,Rain Increment,-95.3653752,29.7399601,TXDOT
+3500,3500 IH 10 West @ Addicks Park and Ride,3500,Rain Increment,-95.6360373,29.7848229,TXDOT
+3600,3600 FM 529 @ US 290,3600,Rain Increment,-95.5700684,29.8793062,TXDOT
+3640,3640 IH 10 @ Silber,3640,Rain Increment,-95.4557513,29.7811652,TXDOT
+4000,4000 Willow @ Gessner,4000,Rain Increment,-95.540947,29.626055,City of Missouri City
+4000,4000 Willow @ Gessner,4002,Stream Level,-95.540947,29.626055,City of Missouri City
+4005,4005 Willow @ Cravens,4005,Rain Increment,-95.5331,29.6299,City of Missouri City
+4005,4005 Willow @ Cravens,4006,Stream Level,-95.5331,29.6299,City of Missouri City
+4010,4010 TxDOT Channel,4010,Rain Increment,-95.5175,29.6211,City of Missouri City
+4010,4010 TxDOT Channel,4013,Stream Level,-95.5175,29.6211,City of Missouri City
+4015,4015 Cangelosi @ Buffalo Run Park,4015,Rain Increment,-95.517064,29.617965,City of Missouri City
+4015,4015 Cangelosi @ Buffalo Run Park,4018,Stream Level,-95.517064,29.617965,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,2,Humidity Sensor,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,4,WindGust,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,5,Wind Direction,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,6,Wind Gust,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,4020,Rain Increment,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,4021,Stream Level,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,4022,Air Temperature,-95.5272,29.6092,City of Missouri City
+4020,4020 Cangelosi @ Texas Parkway,4024,Barometric Pressure,-95.5272,29.6092,City of Missouri City
+4025,4025 North Ditch,4025,Rain Increment,-95.5095,29.6071,City of Missouri City
+4025,4025 North Ditch,4028,Stream Level,-95.5095,29.6071,City of Missouri City
+4030,4030 Lexington @ Hunter’s Trail,4030,Rain Increment,-95.5156,29.5946,City of Missouri City
+4030,4030 Lexington @ Hunter’s Trail,4033,Stream Level,-95.5156,29.5946,City of Missouri City
+4035,4035 Ditch B-1,4035,Rain Increment,-95.523487,29.591251,City of Missouri City
+4035,4035 Ditch B-1,4038,Stream Level,-95.523487,29.591251,City of Missouri City
+4040,4040 Stafford Run @ Court Road,4040,Rain Increment,-95.550558,29.591141,City of Missouri City
+4040,4040 Stafford Run @ Court Road,4042,Stream Level,-95.550558,29.591141,City of Missouri City
+4110,4110 Ditch A 22 @ Bournwood,4110,Rain Increment,-95.6234271,29.632817,City of Sugar Land
+4110,4110 Ditch A 22 @ Bournwood,4113,Stream Level,-95.6234271,29.632817,City of Sugar Land
+4120,4120 Oyster Creek @ Williams Trace,4120,Rain Increment,-95.6099404,29.6035503,City of Sugar Land
+4120,4120 Oyster Creek @ Williams Trace,4123,Stream Level,-95.6099404,29.6035503,City of Sugar Land
+4130,4130 Oyster Creek @ Lexington Boulevard,4130,Rain Increment,-95.5933423,29.5999099,City of Sugar Land
+4130,4130 Oyster Creek @ Lexington Boulevard,4133,Stream Level,-95.5933423,29.5999099,City of Sugar Land
+4140,4140 Jane Long lake @ Country Club Boulevard,4140,Rain Increment,-95.6002964,29.6145365,City of Sugar Land
+4140,4140 Jane Long lake @ Country Club Boulevard,4143,Stream Level,-95.6002964,29.6145365,City of Sugar Land
+4150,4150 Oyster Creek @ Dulles Avenue,4150,Rain Increment,-95.5827671,29.5930133,City of Sugar Land
+4150,4150 Oyster Creek @ Dulles Avenue,4153,Stream Level,-95.5827671,29.5930133,City of Sugar Land
+4160,4160 Northwest Detention Pond Outlet,4160,Rain Increment,-95.606,29.643,City of Sugar Land
+4160,4160 Northwest Detention Pond Outlet,4163,Stream Level,-95.606,29.643,City of Sugar Land
+4170,4170 Northwest Detention Pond Inlet,4170,Rain Increment,-95.6058166,29.6431109,City of Sugar Land
+4170,4170 Northwest Detention Pond Inlet,4173,Stream Level,-95.6058166,29.6431109,City of Sugar Land
+4270,4270 21st Street @ Harborside,4270,Rain Increment,-94.7923,29.3088,TXDOT
+4350,Texas City EOC,4350,Humidity Sensor,-94.920899,29.3948834,Texas City
+4350,Texas City EOC,4351,Rain Increment,-94.920899,29.3948834,Texas City
+4350,Texas City EOC,4352,Air Temperature,-94.920899,29.3948834,Texas City
+4350,Texas City EOC,4354,Barometric Pressure,-94.920899,29.3948834,Texas City
+4350,Texas City EOC,4357,Wind Gust,-94.920899,29.3948834,Texas City
+4400,4400 Ditch B @ Dulles Road,4400,Rain Increment,-95.5820882,29.6058781,City of Sugar Land
+4400,4400 Ditch B @ Dulles Road,4403,Stream Level,-95.5820882,29.6058781,City of Sugar Land
+4420,4420 Oyster Creek @ Dam Number 2,4420,Rain Increment,-95.6262692,29.6089763,City of Sugar Land
+4420,4420 Oyster Creek @ Dam Number 2,4421,Stream Level,-95.6262692,29.6089763,City of Sugar Land
+4420,4420 Oyster Creek @ Dam Number 2,4423,Stream Level,-95.6262692,29.6089763,City of Sugar Land
+4430,4430 Siphon B @ Ditch B,4430,Rain Increment,-95.587571,29.60695,City of Sugar Land
+4430,4430 Siphon B @ Ditch B,4433,Stream Level,-95.587571,29.60695,City of Sugar Land
+4440,4440 Amil Gates @ SH 6,4440,Rain Increment,-95.6376507,29.6067025,City of Sugar Land
+4440,4440 Amil Gates @ SH 6,4443,Stream Level,-95.6376507,29.6067025,City of Sugar Land
+4450,4450 East Sugar Creek Ditch @ Sugar Creek,4450,Rain Increment,-95.5904991,29.6247194,City of Sugar Land
+4450,4450 East Sugar Creek Ditch @ Sugar Creek,4453,Stream Level,-95.5904991,29.6247194,City of Sugar Land
+4460,4460 Ditch 90 A @ Eldridge Road,4460,Rain Increment,-95.6186649,29.6239129,City of Sugar Land
+4460,4460 Ditch 90 A @ Eldridge Road,4463,Stream Level,-95.6186649,29.6239129,City of Sugar Land
+4470,4470 Ditch A 22 @ Burney Road,4470,Rain Increment,-95.6340499,29.6294749,City of Sugar Land
+4470,4470 Ditch A 22 @ Burney Road,4473,Stream Level,-95.6340499,29.6294749,City of Sugar Land
+4480,4480 Oyster Creek @ SH 6,4480,Rain Increment,-95.6512804,29.6344838,City of Sugar Land
+4480,4480 Oyster Creek @ SH 6,4483,Stream Level,-95.6512804,29.6344838,City of Sugar Land
+4490,4490 Covington Ditch @ Jess Pirtle,4490,Rain Increment,-95.6271154,29.6346976,City of Sugar Land
+4490,4490 Covington Ditch @ Jess Pirtle,4493,Stream Level,-95.6271154,29.6346976,City of Sugar Land
+4495,4495 Ditch A-22 @ Jess Pirtle,4495,Rain Increment,-95.61653,29.63633,City of Sugar Land
+4495,4495 Ditch A-22 @ Jess Pirtle,44957,Stream Level,-95.61653,29.63633,City of Sugar Land
+4505,4505 Ditch H @ University Blvd,4505,Rain Increment,-95.639211,29.554892,City of Sugar Land
+4505,4505 Ditch H @ University Blvd,45057,Stream Level,-95.639211,29.554892,City of Sugar Land
+4512,4512 Telfair North Pump Station,4512,Stream Level,-95.64072,29.58858,City of Sugar Land
+4512,4512 Telfair North Pump Station,4512,Rain Increment,-95.64072,29.58858,City of Sugar Land
+4514,4514 Dawnington Place,4514,Rain Increment,-95.62405,29.556024,City of Sugar Land
+4514,4514 Dawnington Place,45147,Stream Level,-95.62405,29.556024,City of Sugar Land
+4515,4515 Alcorn Lake Outfall @ Avondale Drive,17,Stream Level,-95.6179,29.5546,City of Sugar Land
+4515,4515 Alcorn Lake Outfall @ Avondale Drive,4515,Rain Increment,-95.6179,29.5546,City of Sugar Land
+4515,4515 Alcorn Lake Outfall @ Avondale Drive,45157,Stream Level,-95.6179,29.5546,City of Sugar Land
+4520,4520 Ditch A Outfall,4520,Rain Increment,-95.637787,29.57638,City of Sugar Land
+4520,4520 Ditch A Outfall,4523,Stream Level,-95.637787,29.57638,City of Sugar Land
+4520,4520 Ditch A Outfall,4524,Stream Level,-95.637787,29.57638,City of Sugar Land
+4525,4525 Ditch E @ Austin Parkway,4525,Rain Increment,-95.619825,29.587076,City of Sugar Land
+4525,4525 Ditch E @ Austin Parkway,45257,Stream Level,-95.619825,29.587076,City of Sugar Land
+4535,4535 Telfair South Pump Station,4535,Rain Increment,-95.65308,29.56831,City of Sugar Land
+4535,4535 Telfair South Pump Station,45357,Stream Level,-95.65308,29.56831,City of Sugar Land
+4540,4540 Ditch C @ Austin Parkway,4540,Rain Increment,-95.606807,29.57538,City of Sugar Land
+4540,4540 Ditch C @ Austin Parkway,45407,Stream Level,-95.606807,29.57538,City of Sugar Land
+4545,4545 Upper Ditch A @ First Colony Athletic Facility,4545,Rain Increment,-95.607518,29.572574,City of Sugar Land
+4545,4545 Upper Ditch A @ First Colony Athletic Facility,45457,Stream Level,-95.607518,29.572574,City of Sugar Land
+4560,4560 Ditch C @ Ditch C1,4560,Rain Increment,-95.602076,29.584742,City of Sugar Land
+4560,4560 Ditch C @ Ditch C1,45607,Stream Level,-95.602076,29.584742,City of Sugar Land
+4565,4565 Lakes of Austin Park,4565,Rain Increment,-95.58539,29.57144,City of Sugar Land
+4565,4565 Lakes of Austin Park,4567,Stream Level,-95.58539,29.57144,City of Sugar Land
+4575,4575 Gates @ Steep Bank Creek,7,Stream Level,-95.589436,29.567405,City of Sugar Land
+4575,4575 Gates @ Steep Bank Creek,17,Stream Level,-95.589436,29.567405,City of Sugar Land
+4575,4575 Gates @ Steep Bank Creek,4575,Rain Increment,-95.589436,29.567405,City of Sugar Land
+4590,4590 Ditch H @ Ditch F,4590,Rain Increment,-95.638824,29.596707,City of Sugar Land
+4590,4590 Ditch H @ Ditch F,4593,Stream Level,-95.638824,29.596707,City of Sugar Land
+4595,4595 Bullhead Slough @ Easton Ave,4595,Rain Increment,-95.65921,29.60648,City of Sugar Land
+4595,4595 Bullhead Slough @ Easton Ave,45957,Stream Level,-95.65921,29.60648,City of Sugar Land
+4620,4620 Winding Brook Dr,4620,Rain Increment,-95.65592,29.55686,City of Sugar Land
+4620,4620 Winding Brook Dr,4622,Stream Level,-95.65592,29.55686,City of Sugar Land
+4630,4630 Greatwood Parkway,4630,Rain Increment,-95.669,29.56003,City of Sugar Land
+4630,4630 Greatwood Parkway,4632,Stream Level,-95.669,29.56003,City of Sugar Land
+4640,4640 Brazos River @ US 59,4640,Rain Increment,-95.66822,29.56758,City of Sugar Land
+4640,4640 Brazos River @ US 59,4642,Stream Level,-95.66822,29.56758,City of Sugar Land
+4645,4645 Amherst Court,4645,Rain Increment,-95.67539,29.57333,City of Sugar Land
+4645,4645 Amherst Court,46457,Stream Level,-95.67539,29.57333,City of Sugar Land
+4655,4655 New Territory Treatment Plant,4655,Rain Increment,-95.69667,29.578,City of Sugar Land
+4655,4655 New Territory Treatment Plant,46557,Stream Level,-95.69667,29.578,City of Sugar Land
+4670,4670 New Territory Pump Station,4670,Rain Increment,-95.69631,29.58375,City of Sugar Land
+4670,4670 New Territory Pump Station,4672,Stream Level,-95.69631,29.58375,City of Sugar Land
+4680,4680 New Territory Blvd,4680,Rain Increment,-95.67039,29.59136,City of Sugar Land
+4680,4680 New Territory Blvd,4682,Stream Level,-95.67039,29.59136,City of Sugar Land
+4750,4750 59 N @ Peach Creek,4750,Rain Increment,-95.1833,30.2027,TXDOT
+4800,4800 Clinton,4800,Rain Increment,-95.2649054,29.7381223,TXDOT
+4810,4810 I-10 @ 610,4810,Rain Increment,-95.2654737,29.7715016,TXDOT
+4840,4840 Spur 5 @ IH 45,4840,Rain Increment,-95.3366431,29.7271074,TXDOT
+4850,4850 45 S @ HWY 610 HOV,4850,Rain Increment,-95.2864415,29.6948763,TXDOT
+4910,4910 Marys Creek @ Longherridge,4910,Rain Increment,-95.254218,29.540686,Brazoria Drainage District No. 4
+4910,4910 Marys Creek @ Longherridge,4913,Stream Level,-95.254218,29.540686,Brazoria Drainage District No. 4
+4915,4915 Marys Creek @ Veterans Drive,4915,Rain Increment,-95.290391,29.551567,Brazoria Drainage District No. 4
+4915,4915 Marys Creek @ Veterans Drive,4918,Stream Level,-95.290391,29.551567,Brazoria Drainage District No. 4
+4920,4920 Marys Creek @ FM 1128,4920,Rain Increment,-95.330642,29.541382,Brazoria Drainage District No. 4
+4920,4920 Marys Creek @ FM 1128,4923,Stream Level,-95.330642,29.541382,Brazoria Drainage District No. 4
+4925,4925 Country Place Ditch @ McHard Road,4925,Rain Increment,-95.362669,29.581917,Brazoria Drainage District No. 4
+4925,4925 Country Place Ditch @ McHard Road,49257,Stream Level,-95.362669,29.581917,Brazoria Drainage District No. 4
+4935,4935 Cowart Creek Diversion @ Veterans,4935,Rain Increment,-95.2888625,29.5091221,Brazoria Drainage District No. 4
+4935,4935 Cowart Creek Diversion @ Veterans,49357,Stream Level,-95.2888625,29.5091221,Brazoria Drainage District No. 4
+4940,4940 Hickory Slough @ Mykawa,4940,Rain Increment,-95.294728,29.579771,Brazoria Drainage District No. 4
+4940,4940 Hickory Slough @ Mykawa,4943,Stream Level,-95.294728,29.579771,Brazoria Drainage District No. 4
+4942,4942 Brazoria Drainage District Office,4942,Rain Increment,-95.296259,29.563394,Brazoria Drainage District No. 4
+4945,4945 Hickory Slough @ Max Road,4945,Rain Increment,-95.333361,29.567073,Brazoria Drainage District No. 4
+4945,4945 Hickory Slough @ Max Road,4948,Stream Level,-95.333361,29.567073,Brazoria Drainage District No. 4
+4947,4947 Hickory Slough @ SH 288,4946,Stream Level,-95.388233,29.562616,Brazoria Drainage District No. 4
+4947,4947 Hickory Slough @ SH 288,4947,Rain Increment,-95.388233,29.562616,Brazoria Drainage District No. 4
+4952,4952 West Fork Chocolate Bayou @ CR 383,4952,Rain Increment,-95.4319,29.4808,Brazoria Drainage District No. 4
+4952,4952 West Fork Chocolate Bayou @ CR 383,49527,Stream Level,-95.4319,29.4808,Brazoria Drainage District No. 4
+4954,4954 Rodeo Palms Ditch @ SH 6,4954,Rain Increment,-95.3989,29.4816,Brazoria Drainage District No. 4
+4954,4954 Rodeo Palms Ditch @ SH 6,49547,Stream Level,-95.3989,29.4816,Brazoria Drainage District No. 4
+4955,4955 Resoft Park Ditch @ SH 35,4955,Rain Increment,-95.2459,29.4744,Brazoria Drainage District No. 4
+4955,4955 Resoft Park Ditch @ SH 35,49557,Stream Level,-95.2459,29.4744,Brazoria Drainage District No. 4
+4960,4960 Old Chigger Creek @ SH 35,4960,Rain Increment,-95.246034,29.483618,Brazoria Drainage District No. 4
+4960,4960 Old Chigger Creek @ SH 35,49607,Stream Level,-95.246034,29.483618,Brazoria Drainage District No. 4
+4965,4965 LeClaire Ditch @ HWY 35,4965,Rain Increment,-95.256689,29.5163251,Brazoria Drainage District No. 4
+4965,4965 LeClaire Ditch @ HWY 35,49657,Stream Level,-95.256689,29.5163251,Brazoria Drainage District No. 4
+4970,4970 Cowarts Creek @ Cloverfield Road,4970,Rain Increment,-95.238608,29.514303,Brazoria Drainage District No. 4
+4970,4970 Cowarts Creek @ Cloverfield Road,4973,Stream Level,-95.238608,29.514303,Brazoria Drainage District No. 4
+4975,4975 Cowarts Creek @ Dixie Farm Road,4975,Rain Increment,-95.24921,29.53087,Brazoria Drainage District No. 4
+4975,4975 Cowarts Creek @ Dixie Farm Road,4978,Stream Level,-95.24921,29.53087,Brazoria Drainage District No. 4
+4980,4980 Mustang Bayou @ SH 288,4980,Rain Increment,-95.38628,29.525732,Brazoria Drainage District No. 4
+4980,4980 Mustang Bayou @ SH 288,49807,Stream Level,-95.38628,29.525732,Brazoria Drainage District No. 4
+4985,4985 Mustang Bayou @ CR 48,4985,Rain Increment,-95.416673,29.532318,Brazoria Drainage District No. 4
+4985,4985 Mustang Bayou @ CR 48,49857,Stream Level,-95.416673,29.532318,Brazoria Drainage District No. 4
+4990,4990 Veterans @ Hastings-Cannon Road,4990,Rain Increment,-95.288586,29.501974,Brazoria Drainage District No. 4
+4990,4990 Veterans @ Hastings-Cannon Road,49907,Stream Level,-95.288586,29.501974,Brazoria Drainage District No. 4
+5010,5010 Hackberry Gully @ I-10,5009,Stream Level,-94.864628,29.824951,City of Mont Belvieu
+5010,5010 Hackberry Gully @ I-10,5010,Rain Increment,-94.864628,29.824951,City of Mont Belvieu
+5030,5030 Cotton Bayou @ Lakes of Champions Boulevard,5029,Stream Level,-94.843676,29.833484,City of Mont Belvieu
+5030,5030 Cotton Bayou @ Lakes of Champions Boulevard,5030,Rain Increment,-94.843676,29.833484,City of Mont Belvieu
+5050,5050 Friendswood Public Safety,0,Rain Increment,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,2,Humidity Sensor,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,3,Barometric Pressure,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,4,WindGust,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,5,Wind Direction,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,6,Wind Gust,-95.201324,29.497013,City of Friendswood
+5050,5050 Friendswood Public Safety,5050,Air Temperature,-95.201324,29.497013,City of Friendswood
+5100,5100 Chigger Creek @ South Friendswood Drive,5100,Rain Increment,-95.183704,29.504384,City of Friendswood
+5150,5150 Cowarts Creek @ West Castlewood Drive,5150,Rain Increment,-95.198475,29.519511,City of Friendswood
+5220,5220 Robinson Bayou @ Egret Bay Boulevard,5219,Stream Level,-95.079098,29.5224566,City of League City
+5220,5220 Robinson Bayou @ Egret Bay Boulevard,5220,Rain Increment,-95.079098,29.5224566,City of League City
+5230,5230 Landing Ditch @ West Main (FM 518),5229,Stream Level,-95.124226,29.500859,City of League City
+5230,5230 Landing Ditch @ West Main (FM 518),5230,Rain Increment,-95.124226,29.500859,City of League City
+5240,5240 Magnolia Creek @ Bay Area Boulevard,5239,Stream Level,-95.156682,29.494098,City of League City
+5240,5240 Magnolia Creek @ Bay Area Boulevard,5240,Rain Increment,-95.156682,29.494098,City of League City
+5310,5310 Gum Bayou @ Bishops Bridge,5308,Stream Level,-95.026767,29.506344,City of League City
+5310,5310 Gum Bayou @ Bishops Bridge,5310,Rain Increment,-95.026767,29.506344,City of League City
+5320,5320 Gum Bayou @ FM 646,0,Rain Increment,-95.021653,29.492597,City of League City
+5320,5320 Gum Bayou @ FM 646,5319,Stream Level,-95.021653,29.492597,City of League City
+5330,5330 Benson Bayou @ FM 646,5329,Stream Level,-95.073912,29.477635,City of League City
+5330,5330 Benson Bayou @ FM 646,5330,Rain Increment,-95.073912,29.477635,City of League City
+5340,5340 Bordens Gully @ Hughes Lane,5339,Stream Level,-95.083094,29.45199,City of League City
+5340,5340 Bordens Gully @ Hughes Lane,5340,Rain Increment,-95.083094,29.45199,City of League City
+5350,5350 Dickinson Bayou @ HWY 3,5350,Rain Increment,-95.046822,29.45688,City of League City
+5350,5350 Dickinson Bayou @ HWY 3,5353,Stream Level,-95.046822,29.45688,City of League City
+6020,TRA Wolf Creek Park,6020,Rain Increment,-95.1486111,30.6663889,Trinity River Authority
+6040,TRA Waterwood,6040,Rain Increment,-95.24986,30.85925,Trinity River Authority
+6060,TRA Wyser,6060,Rain Increment,-95.56619,30.89416,Trinity River Authority
+6060,TRA Wyser,6063,Stream Level,-95.56619,30.89416,Trinity River Authority
+6070,TRA Harmon,6070,Rain Increment,-95.51022,30.77238,Trinity River Authority
+6080,TRA Midway,6080,Rain Increment,-95.7008,31.0757,Trinity River Authority
+7000,TRA Livingston Dam,6998,Wind Direction,-95.01794,30.6308,Trinity River Authority
+7000,TRA Livingston Dam,6999,WindGust,-95.01794,30.6308,Trinity River Authority
+7000,TRA Livingston Dam,7000,Rain Increment,-95.01794,30.6308,Trinity River Authority
+7020,TRA Kickapoo Creek @ Onalaska,7020,Rain Increment,-95.03413,30.85488,Trinity River Authority
+7030,TRA Upper Kickapoo,7030,Rain Increment,-95.05433,31.004,Trinity River Authority
+7040,TRA Chita/Backup Repeater,7040,Rain Increment,-95.21205,30.94316,Trinity River Authority
+7050,TRA Caney Creek @ Fryday,7050,Rain Increment,-95.21205,31.08978,Trinity River Authority
+7060,TRA White Rock Creek,7060,Rain Increment,-95.35861,31.0325,Trinity River Authority
+8030,8030 Brazos River @ Sienna South,8030,Rain Increment,-95.532317,29.463193,Fort Bend County
+8030,8030 Brazos River @ Sienna South,80307,Stream Level,-95.532317,29.463193,Fort Bend County
+8030,8030 Brazos River @ Sienna South,803010,Stream Level,-95.532317,29.463193,Fort Bend County
+8070,8070 Brazos River @ FM 1489,8070,Rain Increment,-95.975556,29.638611,Fort Bend County
+8070,8070 Brazos River @ FM 1489,80707,Stream Level,-95.975556,29.638611,Fort Bend County
+8165,8165 Oyster Creek @ Mason Road,8165,Rain Increment,-95.744358,29.643246,Fort Bend County
+8165,8165 Oyster Creek @ Mason Road,81657,Stream Level,-95.744358,29.643246,Fort Bend County
+8175,8175 Red Gully @ West Airport,8175,Rain Increment,-95.663698,29.650817,Fort Bend County
+8175,8175 Red Gully @ West Airport,81757,Stream Level,-95.663698,29.650817,Fort Bend County
+8210,8210 Gapps Slough @ FM 762,8210,Rain Increment,-95.696295,29.5217698,Fort Bend County
+8210,8210 Gapps Slough @ FM 762,82107,Stream Level,-95.696295,29.5217698,Fort Bend County
+8220,8220 Rabbs Bayou @ Del Webb Boulevard,8220,Rain Increment,-95.750275,29.556492,Fort Bend County
+8220,8220 Rabbs Bayou @ Del Webb Boulevard,82207,Stream Level,-95.750275,29.556492,Fort Bend County
+8230,8230 Dutch John Creek @ Brazos Lake Drive,8230,Rain Increment,-95.674831,29.450602,Fort Bend County
+8230,8230 Dutch John Creek @ Brazos Lake Drive,82307,Stream Level,-95.674831,29.450602,Fort Bend County
+8235,8235 Big Creek @ FM 1994,8235,Rain Increment,-95.709818,29.413037,Fort Bend County
+8235,8235 Big Creek @ FM 1994,82357,Stream Level,-95.709818,29.413037,Fort Bend County
+8260,8260 Fairchilds Creek @ FM 360,8260,Rain Increment,-95.8439299,29.4043438,Fort Bend County
+8260,8260 Fairchilds Creek @ FM 360,82607,Stream Level,-95.8439299,29.4043438,Fort Bend County
+8280,8280 Seabourne Creek @ SH 36,8280,Rain Increment,-95.807326,29.492307,Fort Bend County
+8280,8280 Seabourne Creek @ SH 36,82807,Stream Level,-95.807326,29.492307,Fort Bend County
+8285,8285 Coon Creek @ Kroesche Road,8285,Rain Increment,-95.846282,29.530165,Fort Bend County
+8285,8285 Coon Creek @ Kroesche Road,82857,Stream Level,-95.846282,29.530165,Fort Bend County
+8325,8325 Flat Bank Diversion @ Sienna Springs Drive,8325,Rain Increment,-95.5625,29.529111,Fort Bend County
+8325,8325 Flat Bank Diversion @ Sienna Springs Drive,83257,Stream Level,-95.5625,29.529111,Fort Bend County
+8355,8355 Jones Creek @ FM 723,8355,Rain Increment,-95.811667,29.637778,Fort Bend County
+8355,8355 Jones Creek @ FM 723,83557,Stream Level,-95.811667,29.637778,Fort Bend County
+8370,8370 Flewellen Creek @ FM 1093,8370,Rain Increment,-95.85089,29.693751,Fort Bend County
+8370,8370 Flewellen Creek @ FM 1093,83707,Stream Level,-95.85089,29.693751,Fort Bend County
+8375,8375 Bessies Creek @ FM 1093,8375,Rain Increment,-95.921111,29.685278,Fort Bend County
+8375,8375 Bessies Creek @ FM 1093,83757,Stream Level,-95.921111,29.685278,Fort Bend County
+8395,8395 Brookshire Creek @ FM 359,8395,Rain Increment,-95.946011,29.752751,Fort Bend County
+8395,8395 Brookshire Creek @ FM 359,83957,Stream Level,-95.946011,29.752751,Fort Bend County
+8525,8525 Buffalo Creek @ FM 1236,8525,Rain Increment,-95.862128,29.349617,Fort Bend County
+8525,8525 Buffalo Creek @ FM 1236,85257,Stream Level,-95.862128,29.349617,Fort Bend County
+8540,8540 San Bernard River @ US 59,8540,Rain Increment,-96.01633,29.4371,Fort Bend County
+8540,8540 San Bernard River @ US 59,85407,Stream Level,-96.01633,29.4371,Fort Bend County
+8665,8665 Willow Fork Diversion @ Mason Road,8665,Rain Increment,-95.743843,29.712468,Fort Bend County
+8665,8665 Willow Fork Diversion @ Mason Road,86657,Stream Level,-95.743843,29.712468,Fort Bend County
+9010,9010 Highland Bayou @ Avenue J,9010,Rain Increment,-95.080903,29.380543,Galveston County Drainage District No. 1
+9010,9010 Highland Bayou @ Avenue J,90107,Stream Level,-95.080903,29.380543,Galveston County Drainage District No. 1
+9020,9020 Ditch 6 @ Cowan Road,9020,Rain Increment,-95.16345,29.40816,Galveston County Drainage District No. 1
+9020,9020 Ditch 6 @ Cowan Road,90207,Stream Level,-95.16345,29.40816,Galveston County Drainage District No. 1
+9030,9030 Dickinson Bayou @ FM 646,9030,Rain Increment,-95.092077,29.43707,Galveston County Drainage District No. 1
+9030,9030 Dickinson Bayou @ FM 646,90307,Stream Level,-95.092077,29.43707,Galveston County Drainage District No. 1
+9040,9040 Cloud Bayou @ Highland Road,9040,Rain Increment,-95.102824,29.33548,Galveston County Drainage District No. 1
+9040,9040 Cloud Bayou @ Highland Road,90407,Stream Level,-95.102824,29.33548,Galveston County Drainage District No. 1
+9050,9050 Willow Bayou @ Baker Street,9050,Rain Increment,-95.0952778,29.314275,Galveston County Drainage District No. 1
+9050,9050 Willow Bayou @ Baker Street,90507,Stream Level,-95.0952778,29.314275,Galveston County Drainage District No. 1
+43304,Elkins Lake,2570,Rain Increment,-95.528452,30.664738,San Jacinto River Authority
+43305,West Fork San Jacinto @ HWY 30,7,Stream Level,-95.693096,30.686388,San Jacinto River Authority
+43305,West Fork San Jacinto @ HWY 30,2550,Rain Increment,-95.693096,30.686388,San Jacinto River Authority
+43306,Lake Conroe,1,Air Temperature,-95.561731,30.358632,San Jacinto River Authority
+43306,Lake Conroe,7,Stream Level,-95.561731,30.358632,San Jacinto River Authority
+43306,Lake Conroe,2500,Rain Increment,-95.561731,30.358632,San Jacinto River Authority
+43307,Lake Creek at Dobbin,7,Stream Level,-95.769123,30.371384,San Jacinto River Authority
+43307,Lake Creek at Dobbin,2105,Rain Increment,-95.769123,30.371384,San Jacinto River Authority
+43309,Loma,43309,Rain Increment,-95.812067,30.664752,San Jacinto River Authority
+43310,Flamingo Lake,2520,Rain Increment,-95.697541,30.454554,San Jacinto River Authority
+43311,Union Grove,43311,Rain Increment,-95.752711,30.541574,San Jacinto River Authority
+43312,WCFG,43312,Rain Increment,-95.614679,30.698458,San Jacinto River Authority
+43313,East Sandy Creek,7,Stream Level,-95.566092,30.583849,San Jacinto River Authority
+43314,Lake Conroe @ 1375,7,Stream Level,-95.601186,30.525542,San Jacinto River Authority
+43314,Lake Conroe @ 1375,43314,Rain Increment,-95.601186,30.525542,San Jacinto River Authority
+43316,West Sandy Creek,7,Stream Level,-95.725493,30.603654,San Jacinto River Authority
+43316,West Sandy Creek,43316,Rain Increment,-95.725493,30.603654,San Jacinto River Authority
+43317,West Caney Creek @ 1375,7,Stream Level,-95.678957,30.528351,San Jacinto River Authority
+43317,West Caney Creek @ 1375,43317,Rain Increment,-95.678957,30.528351,San Jacinto River Authority
+43318,Lewis Creek,43318,Rain Increment,-95.541033,30.427265,San Jacinto River Authority
+43319,East Fork San Jacinto River @ FM 945,7,Stream Level,-95.12528,30.425143,San Jacinto River Authority
+43320,Peach Creek @ FM 3081,7,Stream Level,-95.325704,30.430039,San Jacinto River Authority
+43320,Peach Creek @ FM 3081,43320,Rain Increment,-95.325704,30.430039,San Jacinto River Authority
+43321,Winters Bayou @ TX150,43321,Rain Increment,-95.292435,30.544665,San Jacinto River Authority
+43321,Winters Bayou @ TX150,433217,Stream Level,-95.292435,30.544665,San Jacinto River Authority
